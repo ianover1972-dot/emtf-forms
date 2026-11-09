@@ -25,5 +25,6 @@ Translations were drafted by AI: have a native speaker check each language befor
 
 ## Live
 https://emtf-forms.vercel.app (Vercel project `emtf-forms`, team iano2projects).
-Publishing: push to `main` on GitHub, then redeploy on Vercel (the build runs `vercel-build.sh`, which pulls `dist-web/` from GitHub).
+Publishing: push to `main` on GitHub, then create a Vercel production deployment containing `vercel-build.sh`, and always pass projectSettings (buildCommand `sh vercel-build.sh`, outputDirectory `public`, installCommand `echo skip`). Without them Vercel skips the build and the site 404s. The build pulls `dist-web/` from GitHub.
+New texts: `python3 build/i18n-new.py list`, write `src/i18n/xx.new.txt` per language, then `python3 build/i18n-new.py merge da de el fr nl pl tr`.
 
