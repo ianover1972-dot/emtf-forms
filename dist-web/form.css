@@ -1,0 +1,68 @@
+/* ===== EMTF Club Series — printed form styles (A4) ===== */
+:root{--b:#123B8C;--y:#F4C21B;--ink:#1b2233;--mute:#5a6378;--line:#8e9ab5;--soft:#f3f5fa;--rule:#dfe4ef}
+.sheet{font-family:Poppins,"Noto Sans","Segoe UI",Arial,sans-serif;font-size:8pt;line-height:1.38;color:var(--ink);background:#fff;
+  -webkit-print-color-adjust:exact;print-color-adjust:exact}
+.sheet *{box-sizing:border-box}
+.sheet i{font-style:italic;color:var(--mute)}
+.sheet .es-line{display:block}
+/* header */
+.sheet header.top{display:flex;align-items:center;gap:5mm;background:var(--b);color:#fff;padding:4.5mm 6mm;border-bottom:2.2mm solid var(--y);border-radius:2mm 2mm 0 0}
+.sheet .crest{width:21mm;height:21mm;flex:none;object-fit:contain}
+.sheet .tt{flex:1;min-width:0}
+.sheet .kick{font-size:6.8pt;letter-spacing:.18em;text-transform:uppercase;color:var(--y);font-weight:600}
+.sheet h1{font-size:17pt;margin:.6mm 0 0;line-height:1.1;font-weight:700;color:#fff}
+.sheet .sub{font-size:11pt;color:#cfd9f2;font-weight:300}
+.sheet .club-logo{width:28mm;height:19mm;flex:none;display:flex;align-items:center;justify-content:center;background:#fff;border-radius:1.5mm;padding:1.5mm}
+.sheet .club-logo img{max-width:100%;max-height:100%;object-fit:contain}
+.sheet .club-logo.empty{flex-direction:column;background:transparent;border:.35mm dashed rgba(255,255,255,.55);font-size:6.5pt;color:#dfe6f6;text-align:center;line-height:1.3}
+.sheet .club-logo.empty i{color:#b7c5e8}
+.sheet .clubline{background:var(--soft);padding:2mm 4mm 2.5mm;border:.3mm solid var(--rule);border-top:0}
+.sheet .clubline .known{display:flex;flex-wrap:wrap;gap:1mm 6mm;font-size:7.6pt;padding-top:.6mm}
+.sheet .clubline .known b{color:var(--b)}
+.sheet .intro{margin:3mm 0 0;font-size:8pt}
+/* sections */
+.sheet h2{display:flex;align-items:baseline;gap:2.4mm;font-size:10.5pt;color:var(--b);margin:5mm 0 2mm;padding-bottom:1.2mm;border-bottom:.5mm solid var(--y);break-after:avoid;page-break-after:avoid}
+.sheet h2 b{background:var(--b);color:var(--y);font-size:7.5pt;padding:.6mm 1.6mm;border-radius:1mm}
+.sheet h2 i{font-weight:400;font-size:9pt;margin-left:auto}
+.sheet h3{font-size:8.4pt;color:var(--b);margin:2mm 0 .8mm;break-after:avoid}
+.sheet .keep{break-inside:avoid;page-break-inside:avoid}
+.sheet .grid,.sheet .note,.sheet .cb,.sheet .bi .c,.sheet .decl,.sheet table{break-inside:avoid}
+.sheet .grid{display:grid;gap:1.4mm 3mm;margin-bottom:1.6mm;align-items:end}
+.sheet .fld label{display:block;font-size:6.6pt;font-weight:600;color:#33415e;margin-bottom:.5mm}
+.sheet .fld label i{font-weight:400}
+.sheet .ln{height:6.2mm;border-bottom:.3mm solid var(--line);background:#f7f9fd;padding:0 1.2mm;font-size:8pt;display:flex;align-items:flex-end;padding-bottom:.6mm}
+.sheet .ln.filled{background:transparent;font-weight:500}
+.sheet .bx{height:13mm;border:.3mm solid #c3cbdc;background:#f7f9fd}
+.sheet .note{font-size:7.2pt;color:#46506a;margin:0 0 1.8mm;background:#fff9e3;border-left:.8mm solid var(--y);padding:1.2mm 2mm}
+.sheet .cbs{margin-top:1mm}
+.sheet .cbs.c2{display:grid;grid-template-columns:1fr 1fr;gap:0 5mm}
+.sheet .cbs.c3{display:grid;grid-template-columns:1fr 1fr 1fr;gap:0 4mm}
+.sheet .cb{display:flex;gap:2mm;align-items:flex-start;margin:1mm 0;font-size:7.6pt}
+.sheet .tick{width:3.6mm;height:3.6mm;border:.35mm solid var(--b);border-radius:.6mm;flex:none;display:inline-block;background:#fff;margin-top:.2mm}
+.sheet .bi{display:grid;grid-template-columns:1fr 1fr;gap:1.4mm 5mm}
+.sheet .bi.one{grid-template-columns:1fr}
+.sheet .bi .c{padding:1.2mm 0;border-bottom:.2mm solid #e3e7f0}
+.sheet .bi .c.es{color:#3d4660}
+.sheet .bi.lists .c{border:0}
+.sheet ul{margin:0;padding-left:3.6mm} .sheet li{margin:.4mm 0}
+.sheet table{width:100%;border-collapse:collapse;margin:1mm 0 2mm}
+.sheet th{background:var(--b);color:#fff;font-size:7pt;text-align:left;padding:1.4mm 2mm;font-weight:600}
+.sheet th i{color:#cfd9f2}
+.sheet td{border-bottom:.25mm solid var(--rule);padding:1.3mm 2mm;vertical-align:middle}
+.sheet td.t,.sheet th.t{text-align:center;width:16mm}
+.sheet td .ln{height:5mm;width:26mm;display:inline-flex}
+.sheet .decl{background:var(--soft);border:.3mm solid var(--rule);padding:2mm 3mm;margin:0 0 3mm;font-weight:500}
+.sheet .sig{display:grid;gap:4mm}
+.sheet .sig>div>.sl{font-size:7pt;font-weight:600;color:var(--b)}
+.sheet .sbox{height:13mm;border:.3mm solid var(--line);border-radius:1mm;margin:1mm 0 1.6mm;background:#fcfdff}
+.sheet .sig .fld{margin-bottom:1.4mm}
+.sheet .tiny{font-size:7pt;margin:0 0 1.4mm}
+.sheet .office{margin-top:4mm;border:.4mm solid var(--b);border-radius:1.5mm;padding:0 4mm 3mm;break-inside:avoid}
+.sheet .oh{background:var(--b);color:var(--y);font-weight:600;font-size:7.5pt;letter-spacing:.12em;text-transform:uppercase;margin:0 -4mm 2.5mm;padding:1.6mm 4mm}
+.sheet .oh i{color:#cfd9f2;letter-spacing:.06em}
+.sheet .endnote{margin-top:4mm;font-size:6.4pt;color:#8a93a8;text-align:center}
+.sheet .iban{margin-bottom:2mm}
+.sheet .iban .boxes{display:flex;gap:2.2mm}
+.sheet .iban .ig{display:flex}
+.sheet .iban .ig span{width:6.4mm;height:7.5mm;border:.3mm solid var(--line);border-right-width:0;background:#f7f9fd}
+.sheet .iban .ig span:last-child{border-right-width:.3mm}

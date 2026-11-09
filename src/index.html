@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>EMTF Form Builder</title>
+<style>/*@FONTS*/</style>
+<style>/*@FORMCSS*/</style>
+<style id="pagecss"></style>
+<style>
+:root{--b:#123B8C;--bd:#0c2a66;--y:#F4C21B;--bg:#e9edf5;--ink:#1b2233;--mute:#5a6378;--rule:#dfe4ef}
+*{box-sizing:border-box}
+html,body{margin:0;height:100%}
+body{font-family:Poppins,"Noto Sans","Segoe UI",Arial,sans-serif;color:var(--ink);background:var(--bg);font-size:14px}
+.app{display:grid;grid-template-columns:360px 1fr;height:100vh}
+aside{background:#fff;border-right:1px solid var(--rule);overflow-y:auto;display:flex;flex-direction:column}
+.brand{display:flex;gap:12px;align-items:center;background:var(--b);color:#fff;padding:14px 16px;border-bottom:4px solid var(--y);position:sticky;top:0;z-index:2}
+.brand img{width:44px;height:44px}
+.brand b{display:block;font-size:16px;line-height:1.15}
+.brand span{font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--y);font-weight:600}
+.panel{border-bottom:1px solid var(--rule);padding:4px 16px 14px}
+.panel>h4{margin:10px 0 8px;font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:var(--b);cursor:pointer;display:flex;justify-content:space-between;user-select:none}
+.panel>h4::after{content:"–";font-weight:400}
+.panel.shut>h4::after{content:"+"}
+.panel.shut>*:not(h4){display:none}
+.step{display:inline-grid;place-items:center;width:20px;height:20px;border-radius:50%;background:var(--y);color:var(--b);font-size:11px;margin-right:6px}
+.hint{font-size:12px;color:var(--mute);margin:2px 0 8px;line-height:1.45}
+.pick{display:block;width:100%;text-align:left;border:1px solid var(--rule);background:#fff;border-radius:8px;padding:9px 11px;margin:0 0 6px;font:inherit;cursor:pointer;position:relative}
+.pick b{display:block;font-size:13px;color:var(--ink)} .pick span{font-size:11.5px;color:var(--mute);font-style:italic}
+.pick.on{border-color:var(--b);box-shadow:inset 4px 0 0 var(--y);background:#f5f8ff}
+.pick.soon{opacity:.5;cursor:default}
+.pick em{position:absolute;right:10px;top:10px;font-size:10px;font-style:normal;background:var(--bg);padding:2px 6px;border-radius:10px;color:var(--mute)}
+label.f{display:block;font-size:11.5px;font-weight:600;color:#33415e;margin:8px 0 3px}
+.in{width:100%;font:inherit;font-size:13px;padding:8px 10px;border:1px solid #c9d1e2;border-radius:6px;background:#fbfcff}
+.in:focus{outline:2px solid var(--y);border-color:var(--b)}
+.row2{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+.logo{display:flex;gap:10px;align-items:center}
+#logoPrev{width:84px;height:56px;border:1px dashed #c9d1e2;border-radius:6px;display:grid;place-items:center;font-size:10.5px;color:var(--mute);background:#fbfcff;flex:none;text-align:center}
+#logoPrev img{max-width:78px;max-height:50px}
+.prow{display:grid;grid-template-columns:1fr 90px 30px;gap:6px;margin-bottom:6px}
+.btn{font:inherit;font-weight:600;font-size:13px;border:0;border-radius:6px;padding:9px 14px;cursor:pointer;background:var(--b);color:#fff;border-bottom:3px solid var(--y)}
+.btn:hover{background:var(--bd)}
+.ghost{font:inherit;font-size:12px;background:none;border:1px solid #c9d1e2;border-radius:6px;padding:6px 10px;cursor:pointer;color:var(--b)}
+.ghost:hover{border-color:var(--b)}
+.tog{display:flex;gap:8px;align-items:center;font-size:13px;padding:5px 0;cursor:pointer}
+.tog input{width:17px;height:17px;accent-color:var(--b)}
+.tog.locked{color:var(--mute);cursor:default}
+.tog em{white-space:nowrap;font-size:10.5px;font-style:normal;background:var(--bg);padding:1px 6px;border-radius:10px;margin-left:4px}
+.cq{border:1px solid var(--rule);border-radius:8px;padding:8px;margin-bottom:8px;display:grid;gap:6px;background:#fbfcff}
+.cqrow{display:grid;grid-template-columns:1fr auto;gap:6px}
+.dl{position:sticky;bottom:0;background:#fff;border-top:1px solid var(--rule);padding:12px 16px;margin-top:auto}
+.dl .btn{width:100%;font-size:15px;padding:12px}
+.dl p{font-size:11.5px;color:var(--mute);margin:8px 0 0;line-height:1.45}
+.foot{padding:10px 16px 16px;font-size:11px;color:var(--mute)}
+.foot button{font:inherit;font-size:11px;background:none;border:0;color:var(--mute);text-decoration:underline;cursor:pointer;padding:0}
+#preview{overflow:auto;padding:24px 12px 60px}
+#sheetwrap{width:210mm;margin:0 auto}
+#sheet{background:#fff;padding:13mm;box-shadow:0 6px 30px rgba(18,59,140,.12)}
+.mtop{display:none}
+.toast{position:fixed;left:50%;bottom:18px;transform:translate(-50%,30px);opacity:0;background:var(--ink);color:#fff;font-size:12.5px;padding:8px 14px;border-radius:20px;transition:.25s;pointer-events:none;z-index:9}
+.toast.show{opacity:.92;transform:translate(-50%,0)} .toast.bad{background:#a32020}
+@media (max-width:900px){
+  .app{display:block;height:auto}
+  aside{border-right:0}
+  .brand{position:static}
+  .dl{position:static}
+  #preview{padding:12px 8px 40px;border-top:4px solid var(--y)}
+  .mtop{display:flex;justify-content:space-between;align-items:center;max-width:210mm;margin:0 auto 10px;gap:10px}
+  .mtop b{font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:var(--b)}
+}
+@media print{
+  html,body{height:auto;background:#fff}
+  .app{display:block;height:auto}
+  aside,.mtop,.toast{display:none!important}
+  #preview{padding:0;overflow:visible}
+  #sheetwrap{width:auto;zoom:1!important}
+  #sheet{padding:0;box-shadow:none}
+}
+</style>
+</head>
+<body>
+<div class="app">
+<aside>
+  <div class="brand"><img src="" id="brandCrest" alt=""><div><span>EMTF · Club Series</span><b>Form Builder</b></div></div>
+
+  <div class="panel">
+    <h4><span><span class="step">1</span>Choose a form</span></h4>
+    <div id="picker"></div>
+  </div>
+
+  <div class="panel">
+    <h4><span><span class="step">2</span>Your club details</span></h4>
+    <p class="hint">Enter these once. They print on every form and stay saved in this browser, on this device only.</p>
+    <label class="f">Club name</label><input class="in" data-club="name" placeholder="e.g. Murcia Tang Soo Do">
+    <label class="f">Address</label><input class="in" data-club="address">
+    <div class="row2"><div><label class="f">Phone</label><input class="in" data-club="phone"></div>
+      <div><label class="f">Email</label><input class="in" data-club="email"></div></div>
+    <label class="f">Website</label><input class="in" data-club="website">
+    <label class="f">Club logo</label>
+    <div class="logo"><div id="logoPrev"></div><div><input type="file" id="logo" accept="image/png,image/jpeg,image/webp,image/svg+xml"><br><button class="ghost" id="logoClear" style="margin-top:6px">Remove logo</button></div></div>
+    <div class="row2"><div><label class="f">Safeguarding lead</label><input class="in" data-club="safeguardingLead"></div>
+      <div><label class="f">Their contact</label><input class="in" data-club="safeguardingContact"></div></div>
+    <label class="f">Data protection authority</label><input class="in" data-club="authority" placeholder="e.g. Agencia Española de Protección de Datos (aepd.es)">
+    <p class="hint" style="margin-top:4px">Your country's regulator, named in the data protection wording. Leave blank for a general reference.</p>
+  </div>
+
+  <div class="panel shut">
+    <h4><span><span class="step">3</span>Fees &amp; payments</span></h4>
+    <p class="hint">Used on enrolment forms. Leave a fee blank to write it in by hand.</p>
+    <div id="progs"></div>
+    <button class="ghost" id="addp">+ Add programme</button>
+    <div class="row2" style="margin-top:6px"><div><label class="f">Minimum term</label><input class="in" data-club="minTerm" placeholder="e.g. 3 months"></div>
+      <div><label class="f">Notice to cancel</label><input class="in" data-club="notice" placeholder="e.g. 30 days"></div></div>
+    <label class="f">Grading / licence fees</label><input class="in" data-club="gradingFees" placeholder="e.g. €25 per grading">
+    <label class="f">SEPA creditor identifier</label><input class="in" data-club="sepaCreditorId" placeholder="e.g. ES12000B12345678">
+    <p class="hint" style="margin-top:4px">From your bank. Printed on the SEPA Direct Debit Mandate.</p>
+  </div>
+
+  <div class="panel">
+    <h4><span><span class="step">4</span>Adjust this form</span></h4>
+    <div class="row2"><div><label class="f">Main language</label><select class="in" id="lang1"></select></div>
+      <div><label class="f">Second language</label><select class="in" id="lang2"></select></div></div>
+    <p class="hint" style="margin-top:4px">The second language prints alongside the main one. Choose "none" for a single-language form.</p>
+    <label class="f" style="margin-top:12px">Sections</label>
+    <div id="sections"></div>
+    <label class="f" style="margin-top:12px">Your own questions</label>
+    <div id="custom"></div>
+    <button class="ghost" id="addq">+ Add a question</button>
+  </div>
+
+  <div class="dl">
+    <button class="btn print">Download PDF</button>
+    <p>In the print window, choose <b>Save as PDF</b> as the printer, with A4 paper. On a phone, use Share → Print. Works best in Chrome or Edge.</p>
+  </div>
+  <div class="foot">Legal wording is a federation template. Have it checked locally before use. · <button id="reset">Clear my details</button></div>
+</aside>
+
+<main id="preview">
+  <div class="mtop"><b>Preview</b><button class="btn print">Download PDF</button></div>
+  <div id="sheetwrap"><div id="sheet" class="sheet"></div></div>
+</main>
+</div>
+<div id="toast" class="toast"></div>
+<script>/*@CREST*/</script>
+<script>/*@REGISTRY*/</script>
+<script>/*@TEMPLATES*/</script>
+<script>/*@I18N*/</script>
+<script>/*@APP*/</script>
+<script>document.getElementById("brandCrest").src = window.EMTF_CREST;</script>
+</body>
+</html>

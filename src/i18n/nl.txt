@@ -1,0 +1,350 @@
+0|Inschrijving volwassenen
+1|Welkom bij de club. Vul alle onderdelen in en onderteken op de laatste pagina. Uw antwoorden helpen ons om u veilig te laten trainen en het meeste uit uw training te halen.
+2|Uw gegevens
+3|Volledige naam
+4|Geboortedatum
+5|Nr. identiteitskaart / paspoort
+6|Woonadres
+7|Mobiel
+8|E-mail
+9|Beroep (optioneel)
+10|Uw identiteitsnummer is alleen nodig voor uw bondslicentie en sportongevallenverzekering.
+11|Ervaring in vechtsporten
+12|Eerdere stijl(en), indien van toepassing
+13|Hoogst behaalde graad
+14|Aantal jaren getraind
+15|Wat wilt u het liefst uit uw training halen?
+16|Contactpersonen voor noodgevallen
+17|Naam
+18|Relatie
+19|Telefoon
+20|Gezondheidscheck
+21|Alleen gedeeld met de instructeurs die het nodig hebben voor uw veiligheid. Ja antwoorden betekent niet dat u niet mag trainen — we vragen u misschien alleen eerst uw arts te raadplegen.
+22|Heeft een arts u ooit verteld, of heeft u momenteel…
+23|Een hartaandoening, hoge bloeddruk of pijn op de borst bij inspanning?
+24|Duizeligheid, flauwvallen of bewustzijnsverlies?
+25|Astma of een andere ademhalingsaandoening?
+26|Een bot-, gewrichts-, rug- of spierprobleem dat door sporten kan verergeren?
+27|Een hoofdletsel of hersenschudding in de afgelopen 12 maanden?
+28|Zwangerschap of een recente operatie?
+29|Een andere reden waarom u niet aan lichamelijke activiteit zou moeten deelnemen?
+30|Als u ja heeft geantwoord, geef dan details
+31|Allergieën en medicatie
+32|Ik geef toestemming dat een opgeleid clublid eerste hulp verleent en dat de club in noodgevallen 112 belt.
+33|Lidmaatschap en contributie
+34|Startdatum
+35|Minimale looptijd
+36|Opzegtermijn
+37|Examen- / licentiekosten
+38|De contributie wordt maandelijks vooraf betaald via SEPA-incasso. Bij deze inschrijving wordt een aparte SEPA-machtiging ondertekend.
+39|De contributie geldt per maand, niet per les. Gemiste lessen worden niet terugbetaald, maar kunnen in een andere geschikte les worden ingehaald.
+40|Bij gestorneerde incasso's kunnen de bankkosten die de club in rekening worden gebracht, worden doorberekend. We nemen altijd eerst contact met u op voordat we verdere stappen zetten.
+41|Elke wijziging van de contributie wordt minstens 30 dagen vooraf schriftelijk gemeld, en u kunt opzeggen voordat deze ingaat.
+42|Gedragscode
+43|Als lid zal ik
+44|Buigen bij het betreden en verlaten van de dojang en de aanwijzingen van de instructeurs opvolgen.
+45|Op tijd komen, in een schone dobok, met korte nagels en zonder sieraden.
+46|Gecontroleerd trainen en letten op de veiligheid van elke partner, ongeacht lengte of graad.
+47|De instructeur vóór de les informeren over elke blessure of verandering in mijn gezondheid.
+48|Technieken buiten de les nooit gebruiken, behalve om mezelf of anderen tegen letsel te beschermen.
+49|Een goed voorbeeld zijn voor jongere leerlingen, in en buiten de club, ook online.
+50|De club zal
+51|Gekwalificeerde instructeurs en veilige lessen met goed toezicht bieden.
+52|Duidelijke feedback geven over uw vooruitgang en eerlijke, transparante examens afnemen.
+53|Bij elke les zorgen voor eerste hulp.
+54|Naar elke zorg luisteren en deze snel en vertrouwelijk behandelen.
+55|Veiligheid en erkenning van risico's
+56|Tang Soo Do is een fysieke contactsport. Ondanks zorgvuldig toezicht kunnen stoten, blauwe plekken, verstuikingen en, zelden, ernstigere blessures voorkomen.
+57|De club heeft een aansprakelijkheidsverzekering en leden zijn via hun bondslicentie verzekerd tegen sportongevallen. Details zijn op aanvraag beschikbaar.
+58|Ik bevestig dat ik fit genoeg ben om deel te nemen, dat mijn gezondheidsantwoorden juist zijn en dat ik de club op de hoogte breng van elke wijziging. Niets in deze inschrijving beperkt de wettelijke aansprakelijkheid van de club voor haar eigen nalatigheid.
+59|Foto's en video
+60|Elk gebruik is vrijwillig en kan op elk moment worden ingetrokken. Nee zeggen heeft nooit gevolgen voor uw lidmaatschap.
+61|Ik geef toestemming voor het gebruik van beelden van mij voor…
+62|Intern gebruik — technische feedback, examendossiers en diploma's
+63|Besloten ledengroepen (bijv. club-WhatsApp of ledenportaal)
+64|De website van de club en drukwerk
+65|Openbare sociale media
+66|Gegevensbescherming
+67|<b>Verwerkingsverantwoordelijke:</b> {club}. <b>Doel:</b> beheer van lidmaatschap, contributie, veiligheid, examens en bondslicenties. <b>Rechtsgrond:</b> uitvoering van deze inschrijving; toestemming voor gezondheidsgegevens en beelden; wettelijke verplichtingen.
+68|<b>Ontvangers:</b> de bond (licenties en examens), verzekeraars, de bank van de club voor incasso's en zo nodig hulpdiensten. Gegevens worden nooit verkocht.
+69|<b>Bewaartermijn:</b> zolang het lidmaatschap duurt, daarna alleen zo lang als de wet vereist. <b>Uw rechten:</b> inzage, rectificatie, wissing, bezwaar, beperking en overdraagbaarheid, schriftelijk bij de club. U kunt een klacht indienen bij {authority}.
+70|Optioneel: ik ontvang graag clubnieuws en informatie over evenementen per e-mail of WhatsApp.
+71|Opzegging, pauze en herroeping
+72|Om op te zeggen meldt u dit schriftelijk (e-mail volstaat) met inachtneming van de opzegtermijn in het onderdeel lidmaatschap. De incasso's stoppen na afloop van de opzegtermijn.
+73|Als u zich online of buiten de club heeft ingeschreven, heeft u 14 dagen om zonder opgave van redenen te herroepen, met terugbetaling van niet-gebruikte contributie.
+74|Het lidmaatschap kan in overleg met de club worden gepauzeerd bij blessure of ziekte (met doktersverklaring) of bij langere afwezigheid.
+75|De club kan het lidmaatschap beëindigen na ernstige of herhaalde overtredingen van de gedragscode, nadat dit met u is besproken. Contributie voor volledige maanden zonder training wordt terugbetaald.
+76|Verklaring en handtekeningen
+77|Ik ben 18 jaar of ouder. Ik heb deze inschrijving gelezen en ga ermee akkoord, en de verstrekte informatie is juist.
+78|Handtekening lid
+79|Datum
+80|Namens de club
+81|Naam instructeur
+82|Alleen voor de club
+83|Lidnr.
+84|Bondslicentienr.
+85|Datum ontvangst
+86|SEPA-machtiging ondertekend
+87|In ledensysteem ingevoerd
+88|Gezondheidsantwoorden gecontroleerd
+89|Medische goedkeuring gevraagd (indien nodig)
+90|Fotovoorkeuren vastgelegd
+91|Introductie eerste les gedaan
+92|Aanvraag examen
+93|Vul dit formulier in om u aan te melden voor uw volgende examen. Uw instructeur bevestigt vóór de examendatum dat u er klaar voor bent.
+94|Leerling
+95|Huidige graad
+96|Datum laatste examen
+97|Contacttelefoon
+98|Aangevraagde graad
+99|Groene band
+100|Groene band, witte streep
+101|Groene band, zwarte streep
+102|Rode band
+103|Rode band, witte streep
+104|Rode band, zwarte streep
+105|Blauwe band
+106|Blauwe band, witte streep
+107|Blauwe band, zwarte streep
+108|Cho Dan Bo
+109|Examendatum
+110|Locatie
+111|Examengeld
+112|Trainingsoverzicht
+113|Gevolgde lessen sinds het laatste examen
+114|Hyung (vorm) voor deze graad
+115|Licentie geldig tot
+116|Leerling: waar heb je sinds je laatste examen het hardst aan gewerkt?
+117|Aanbeveling instructeur
+118|De leerling…
+119|Voldoet aan de minimale aanwezigheid en tijd in de graad
+120|Kent het volledige examenprogramma voor deze graad
+121|Toont de houding en het gedrag die bij deze graad horen
+122|Opmerkingen
+123|Naam en handtekening instructeur
+124|Verklaring
+125|Ik vraag het examen voor bovenstaande graad aan. Ik begrijp dat het examengeld niet wordt terugbetaald als ik zonder geldige reden niet verschijn, en dat de examencommissie over het resultaat beslist.
+126|Handtekening leerling
+127|Ouder / voogd (indien jonger dan 18)
+128|Resultaat — alleen voor de club
+129|Geslaagd
+130|Geslaagd met lof
+131|Nog niet — herexamen
+132|Hoofdexaminator
+133|Diplomanr.
+134|Gemeld aan de bond (datum)
+135|Gezondheidsverklaring
+136|Vul dit in bij inschrijving, eenmaal per jaar en bij elke wijziging. Het wordt alleen gedeeld met de instructeurs die het nodig hebben voor de veiligheid van de leerling.
+137|Huisarts / gezondheidscentrum
+138|Medische aandoeningen
+139|Heeft of had de leerling…
+140|Astma of een andere ademhalingsaandoening
+141|Epilepsie, toevallen of flauwvallen
+142|Diabetes
+143|Een hartaandoening of hoge bloeddruk
+144|Een ernstige allergie (bijv. noten, insectensteken, latex)
+145|Een bot-, gewrichts-, rug- of spierprobleem
+146|Een hoofdletsel of hersenschudding in de afgelopen 12 maanden
+147|Problemen met zien of horen
+148|Een andere aandoening die de instructeur moet kennen
+149|Zo ja, geef details en wat we moeten doen als het tijdens de les gebeurt
+150|Medicatie
+151|Vaste medicatie
+152|Noodmedicatie (bijv. inhalator, auto-injector) en waar deze wordt bewaard
+153|De leerling neemt eventuele noodmedicatie naar elke les mee.
+154|Specifieke behoeften
+155|Alles wat ons helpt de leerling te ondersteunen (bijv. leer-, zintuiglijke of emotionele behoeften)
+156|Toestemming
+157|Ik geef toestemming dat een opgeleid clublid eerste hulp verleent.
+158|Als ik in een noodgeval niet bereikbaar ben, geef ik de club toestemming 112 te bellen en het advies van de medische diensten op te volgen.
+159|<b>Gegevensbescherming:</b> {club} bewaart deze gezondheidsinformatie met uw toestemming, uitsluitend voor de veiligheid van de leerling. Ze wordt alleen gedeeld met instructeurs die ze nodig hebben, bewaard zolang het lidmaatschap duurt, en u kunt uw toestemming altijd intrekken of om correctie of verwijdering vragen.
+160|Bovenstaande informatie is juist. Ik informeer de club meteen als er iets verandert.
+161|Handtekening (leerling 18+ of ouder / voogd)
+162|Ontvangen door de club
+163|Volgende controle
+164|Gedeeld met (instructeurs)
+165|Zorgplan nodig?
+166|Ongevallen- en incidentrapport
+167|In te vullen door de instructeur of EHBO'er zo snel mogelijk na elk ongeval, letsel of bijna-ongeval. Houd u aan de feiten: wat u zag, hoorde en deed.
+168|Wat er gebeurde
+169|Letsel
+170|Ziekte
+171|Bijna-ongeval
+172|Materiële schade
+173|Gedragsincident
+174|Anders
+175|Tijd
+176|Locatie (bijv. matgedeelte, kleedkamer)
+177|Les / activiteit op dat moment
+178|Verantwoordelijke instructeur
+179|Beschrijving — wat er gebeurde, in volgorde
+180|Betrokken persoon
+181|Leeftijd
+182|Leerling / bezoeker / personeel
+183|Letsel en lichaamsdeel
+184|Relevante medische aandoeningen
+185|Genomen maatregelen
+186|Verleende eerste hulp
+187|Verleend door (naam) en tijd
+188|Is…
+189|112 / een ambulance gebeld?
+190|De persoon naar het ziekenhuis gebracht of geadviseerd een arts te raadplegen?
+191|Een ouder / voogd of noodcontact geïnformeerd?
+192|De persoon in staat geweest verder te trainen?
+193|Wie is geïnformeerd
+194|Tijd van melding
+195|Hoe (telefoon, persoonlijk…)
+196|Getuigen
+197|Naam en contactgegevens
+198|Opvolging
+199|Waarschijnlijke oorzaak
+200|Wat veranderen we om herhaling te voorkomen?
+201|Verzekeraar / bond geïnformeerd
+202|Contact met familie opgevolgd
+203|Incident afgesloten
+204|Kinderbescherming
+205|Als dit incident zorgen oproept over het welzijn van een kind, noteer het dan niet hier. Spreek vandaag nog met de vertrouwenspersoon kinderbescherming van de club en volg het EMTF-beleid voor kinderbescherming.
+206|Vertrouwenspersoon kinderbescherming
+207|Contact
+208|Handtekeningen
+209|Ingevuld door
+210|Clubleiding / hoofdinstructeur
+211|Ouder / voogd (gezien)
+212|<b>Vertrouwelijk.</b> {club} bewaart dit rapport veilig voor het beheer van veiligheid en verzekeringsclaims, deelt het alleen met wie het nodig heeft (verzekeraar, bond, hulpdiensten) en bewaart het zo lang als de wet vereist.
+213|Overeenkomst ouders en leerling
+214|Deze overeenkomst beschrijft hoe we samen trainen, waartoe de club zich verbindt en wat we van leerlingen en gezinnen vragen. Lees haar samen met uw kind, vul alle onderdelen in en onderteken op de laatste pagina.
+215|Gegevens leerling
+216|School
+217|Gegevens ouders / voogden
+218|Voogd 1 — naam
+219|Voogd 2 — naam
+220|Een rechterlijke uitspraak of regeling over wie het kind mag ophalen of over het kind geïnformeerd mag worden, moet schriftelijk aan de club worden gemeld.
+221|Geef andere contactpersonen op dan de voogden hierboven.
+222|Gezondheidsinformatie
+223|Alleen gedeeld met de instructeurs die het nodig hebben voor de veiligheid van uw kind. Laat het ons meteen weten als er iets verandert.
+224|Medische aandoeningen (bijv. astma, epilepsie, diabetes)
+225|Blessures of lichamelijke beperkingen
+226|Specifieke behoeften die we moeten kennen om uw kind te ondersteunen
+227|Nr. zorgverzekering (optioneel)
+228|Personen die het kind mogen ophalen
+229|Kinderen worden alleen meegegeven aan een voogd of een hier genoemde persoon. We kunnen om een identiteitsbewijs vragen.
+230|(Leerlingen vanaf 12 jaar) Mijn kind mag na de les zelfstandig de club verlaten.
+231|De contributie wordt maandelijks vooraf betaald via SEPA-incasso. Bij deze overeenkomst wordt een aparte SEPA-machtiging ondertekend.
+232|Onze leerlingen
+233|Trainen gecontroleerd en respecteren de veiligheid van elke partner.
+234|Gebruiken technieken buiten de les nooit, behalve om zichzelf of anderen tegen letsel te beschermen.
+235|Spreken vriendelijk — geen pesten, in of buiten de club, ook niet online.
+236|Onze gezinnen
+237|Brengen en halen op tijd en zijn tijdens de les bereikbaar.
+238|Laten de instructeurs de les leiden — vragen zijn na afloop welkom.
+239|Moedigen vanaf de tribune alle leerlingen aan, niet alleen hun eigen kind.
+240|Informeren ons over alles wat de training of het welzijn van hun kind kan beïnvloeden.
+241|Onze club
+242|Gekwalificeerde instructeurs met een recente Verklaring Omtrent het Gedrag (VOG) of uittreksel uit het strafregister.
+243|Veilige lessen onder toezicht, met een passende begeleidingsratio en eerste hulp.
+244|Duidelijke feedback over de vooruitgang en eerlijke, transparante examens.
+245|Een aangewezen vertrouwenspersoon kinderbescherming met wie u vertrouwelijk kunt praten.
+246|De club heeft een aansprakelijkheidsverzekering en leerlingen zijn via hun bondslicentie verzekerd tegen sportongevallen. Details zijn op aanvraag beschikbaar.
+247|Ik bevestig dat mijn kind fit genoeg is om deel te nemen en ik informeer de club over elke verandering in zijn of haar gezondheid. Niets in deze overeenkomst beperkt de wettelijke aansprakelijkheid van de club voor haar eigen nalatigheid.
+248|Elk gebruik is vrijwillig en kan op elk moment worden ingetrokken. Nee zeggen heeft nooit gevolgen voor de plaats of behandeling van uw kind.
+249|Ik geef toestemming voor het gebruik van beelden van mijn kind voor…
+250|Openbare sociale media (volledige namen worden nooit gepubliceerd)
+251|<b>Verwerkingsverantwoordelijke:</b> {club}. <b>Doel:</b> beheer van lidmaatschap, contributie, veiligheid, examens en bondslicenties. <b>Rechtsgrond:</b> uitvoering van deze overeenkomst; toestemming voor gezondheidsgegevens en beelden; wettelijke verplichtingen.
+252|Het lidmaatschap kan in overleg met de club worden gepauzeerd bij blessure of ziekte (met doktersverklaring) of bij een langere vakantie.
+253|De club kan het lidmaatschap beëindigen na ernstige of herhaalde overtredingen van de gedragscode, nadat met het gezin is gesproken. Contributie voor volledige maanden zonder training wordt terugbetaald.
+254|Ik ben de ouder of wettelijke voogd van de hierboven genoemde leerling. Ik heb deze overeenkomst gelezen en ga ermee akkoord, en de verstrekte informatie is juist.
+255|Handtekening ouder / voogd
+256|„Ik train met respect, inzet en controle.”
+257|Gezondheidsinfo gedeeld met instructeurs
+258|Kopie aan gezin gegeven
+259|Toestemming foto en video
+260|We delen graag de vooruitgang van onze leerlingen, maar alleen met uw toestemming. Kies ja of nee voor elk gebruik. U kunt op elk moment van gedachten veranderen door het de club te laten weten.
+261|Volledige naam leerling
+262|Telefoon of e-mail
+263|Hoe beelden gebruikt mogen worden
+264|Elk gebruik is vrijwillig. Nee zeggen heeft nooit gevolgen voor de plaats, behandeling of examens van de leerling.
+265|Ik geef toestemming voor het gebruik van foto's en video's van de leerling voor…
+266|De website van de club, het prikbord en drukwerk
+267|De openbare sociale media van de club
+268|Website, sociale media en evenementen van de bond EMTF
+269|Lokale pers en media (bijv. een examen- of wedstrijdresultaat)
+270|Voornaam bij de beelden (achternamen worden nooit gepubliceerd)
+271|Onze belofte
+272|Alleen beelden gebruiken waarop leerlingen gepast gekleed zijn en veilig trainen.
+273|Nooit de volledige naam, school of woonplaats van een kind publiceren.
+274|Beelden binnen 7 dagen na een verzoek van de kanalen van de club verwijderen, voor zover wij daarover gaan.
+275|Gezinnen op evenementen vragen geen beelden van andere leerlingen te delen zonder toestemming.
+276|<b>Gegevensbescherming:</b> {club} is verantwoordelijk voor deze beelden. De rechtsgrond is uw toestemming, die u op elk moment kunt intrekken. Beelden worden alleen bewaard zolang ze worden gebruikt, en u kunt om inzage, correctie of verwijdering vragen, of een klacht indienen bij {authority}.
+277|Handtekening
+278|Ik ben de leerling (18+) of zijn of haar ouder / wettelijke voogd, en ik geef de hierboven aangekruiste toestemmingen.
+279|Leerling (vanaf 12 jaar, als teken van instemming)
+280|Vastgelegd door
+281|Ingetrokken op (indien van toepassing)
+282|SEPA-machtiging voor doorlopende incasso
+283|Met deze machtiging kan de club de contributie van uw bankrekening afschrijven. Vul haar in hoofdletters in en onderteken hieronder. Vul het IBAN zorgvuldig in: één verkeerd cijfer zorgt ervoor dat de betaling wordt gestorneerd.
+284|Incassant (de club)
+285|Naam incassant
+286|Incassant-ID
+287|Adres
+288|Machtigingskenmerk (in te vullen door de club)
+289|Betaler (rekeninghouder)
+290|Volledige naam rekeninghouder
+291|Postcode en woonplaats
+292|Land
+293|BIC / SWIFT (indien bekend)
+294|Leerling(en) waarvoor dit geldt
+295|Soort betaling
+296|Doorlopende betaling (maandelijkse contributie)
+297|Eenmalige betaling
+298|Voorwaarden van de machtiging
+299|Door ondertekening van dit formulier geeft u toestemming aan (A) {club} om doorlopende incasso-opdrachten te sturen naar uw bank om een bedrag van uw rekening af te schrijven en (B) uw bank om doorlopend een bedrag van uw rekening af te schrijven overeenkomstig de opdracht van {club}.
+300|Als u het niet eens bent met deze afschrijving kunt u deze laten terugboeken. Neem hiervoor binnen 8 weken na afschrijving contact op met uw bank. Vraag uw bank naar de voorwaarden.
+301|Meer informatie over uw rechten kunt u bij uw bank krijgen. De club meldt u het bedrag en de datum van elke afschrijving minstens 2 dagen vooraf.
+302|Handtekening betaler (rekeninghouder)
+303|Plaats van ondertekening
+304|Alle velden moeten worden ingevuld. Lever deze machtiging in bij de club; de club bewaart haar en ze wordt niet naar uw bank gestuurd.
+305|Datum eerste afschrijving
+306|Maandbedrag (€)
+307|IBAN gecontroleerd
+308|Ingesteld in betaalsysteem
+309|Vooraankondiging verstuurd
+310|Toestemming proefles
+311|Welkom — fijn dat u er bent. Vul dit korte formulier in vóór uw eerste les, zodat we uw veiligheid op de mat kunnen waarborgen.
+312|Deelnemer
+313|Datum proefles
+314|Noodcontact (naam en telefoon)
+315|Hoe heeft u ons gevonden?
+316|Korte gezondheidscheck
+317|Heeft de deelnemer…
+318|Een hart- of ademhalingsaandoening, epileptische aanvallen of diabetes?
+319|Een huidige blessure, of een recente operatie of hoofdletsel?
+320|Een ernstige allergie of noodmedicatie?
+321|Specifieke behoeften die de instructeur moet kennen?
+322|Zo ja, geef een korte toelichting
+323|Veiligheid en toestemming
+324|Tang Soo Do is een fysieke contactsport. Proeflessen zijn aangepast aan beginners en staan volledig onder toezicht, maar stoten, blauwe plekken en verstuikingen kunnen voorkomen.
+325|Ik bevestig dat de deelnemer fit genoeg is om deel te nemen en de aanwijzingen van de instructeur zal opvolgen. Niets in dit formulier beperkt de wettelijke aansprakelijkheid van de club voor haar eigen nalatigheid.
+326|Ik geef toestemming voor het verlenen van eerste hulp en dat de club in noodgevallen 112 belt.
+327|Ik begrijp dat er zonder aparte schriftelijke toestemming geen foto's of video's van de deelnemer worden gedeeld.
+328|Optioneel: de club mag na de proefles contact met mij opnemen over lidmaatschap.
+329|<b>Gegevensbescherming:</b> {club} gebruikt deze gegevens alleen om de proefles veilig te laten verlopen en, als u het vakje hierboven heeft aangekruist, om contact op te nemen. Ze worden na 6 maanden verwijderd als u geen lid wordt. U kunt altijd om inzage, correctie of verwijdering vragen, of een klacht indienen bij {authority}.
+330|Deelnemer (18+) of ouder / voogd
+331|Instructeur
+332|Aanwezig
+333|Lidmaatschap aangeboden
+334|Lid geworden
+335|Opmerkingen instructeur
+336|Datum opvolging
+337|Clubformulieren
+338|Clublogo
+339|Naam club
+340|Adres club
+341|Programma
+342|Maandcontributie
+343|Keuze
+344|Ja
+345|Nee
+346|IBAN (rekeningnummer)
+347|Vragen van de club
+348|de hierboven genoemde club
+349|de toezichthouder voor gegevensbescherming in uw land
