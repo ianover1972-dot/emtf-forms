@@ -24,7 +24,8 @@
     da: "Dansk", pl: "Polski", el: "Ελληνικά", tr: "Türkçe" };
   // Display order for the form picker (templates not listed go last)
   const ORDER = ["trial-waiver", "parent-student-agreement", "adult-registration", "health-declaration",
-    "photo-consent", "sepa-mandate", "grading-application", "incident-report"];
+    "photo-consent", "sepa-mandate", "membership-change", "grading-application", "incident-report",
+    "safeguarding-concern"];
   const rank = id => (ORDER.indexOf(id) + 1) || 99;
   TEMPLATES.sort((a, b) => rank(a.id) - rank(b.id));
   // Fixed wording printed by the app itself (translated like template text)

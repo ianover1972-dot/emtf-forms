@@ -211,140 +211,202 @@
 210|Kulüp yöneticisi / baş eğitmen
 211|Veli / vasi (görüldü)
 212|<b>Gizlidir.</b> {club} bu raporu güvenlik ve sigorta taleplerinin yönetimi için güvenli şekilde saklar, yalnızca ihtiyaç duyanlarla (sigorta şirketi, federasyon, acil durum hizmetleri) paylaşır ve yasanın gerektirdiği süre boyunca muhafaza eder.
-213|Veli ve Öğrenci Sözleşmesi
-214|Bu sözleşme birlikte nasıl antrenman yaptığımızı, kulübün neyi taahhüt ettiğini ve öğrencilerle ailelerden ne beklediğimizi açıklar. Lütfen çocuğunuzla birlikte okuyun, tüm bölümleri doldurun ve son sayfayı imzalayın.
-215|Öğrenci bilgileri
-216|Okulu
-217|Veli / vasi bilgileri
-218|Veli 1 — adı
-219|Veli 2 — adı
-220|Çocuğu kimin alabileceğini veya çocuk hakkında kimin bilgilendirilebileceğini etkileyen her türlü mahkeme kararı veya düzenleme kulübe yazılı olarak bildirilmelidir.
-221|Lütfen yukarıdaki veliler dışında kişiler belirtin.
-222|Sağlık bilgileri
-223|Yalnızca çocuğunuzun güvenliği için ihtiyaç duyan eğitmenlerle paylaşılır. Herhangi bir değişikliği bize hemen bildirin.
-224|Sağlık durumları (ör. astım, epilepsi, diyabet)
-225|Yaralanmalar veya fiziksel kısıtlamalar
-226|Çocuğunuzu desteklemek için bilmemiz gereken özel ihtiyaçlar
-227|Sağlık kartı / T.C. kimlik no. (isteğe bağlı)
-228|Çocuğu almaya yetkili kişiler
-229|Çocuklar yalnızca veliye veya burada adı geçen kişiye teslim edilir. Kimlik isteyebiliriz.
-230|(12 yaş ve üzeri öğrenciler) Çocuğum ders bitiminde kulüpten tek başına ayrılabilir.
-231|Aidatlar her ay peşin olarak SEPA otomatik ödeme talimatıyla ödenir. Bu sözleşmeyle birlikte ayrı bir SEPA talimatı imzalanır.
-232|Öğrencilerimiz
-233|Kontrollü antrenman yapar ve her partnerin güvenliğine saygı gösterir.
-234|Kendilerini veya başkalarını korumak dışında teknikleri asla ders dışında kullanmaz.
-235|Nazik konuşur — kulüpte, kulüp dışında ve internette zorbalık yapmaz.
-236|Ailelerimiz
-237|Çocukları zamanında bırakır ve alır, ders süresince ulaşılabilir olur.
-238|Dersi eğitmenlerin yönetmesine izin verir — sorular ders sonrasında memnuniyetle karşılanır.
-239|İzleyici alanından yalnızca kendi çocuğunu değil, tüm öğrencileri destekler.
-240|Çocuğunun antrenmanını veya iyiliğini etkileyebilecek her şeyi bize bildirir.
-241|Kulübümüz
-242|Güncel adli sicil kaydına sahip nitelikli eğitmenler.
-243|Uygun eğitmen oranı ve ilk yardım imkânıyla güvenli, denetimli dersler.
-244|Gelişim hakkında açık geri bildirim ve adil, şeffaf kuşak sınavları.
-245|Gizlilik içinde konuşabileceğiniz, adı belirlenmiş bir çocuk koruma sorumlusu.
-246|Kulübün mali sorumluluk sigortası vardır ve öğrenciler federasyon lisansları aracılığıyla spor kaza sigortasıyla güvence altındadır. Ayrıntılar talep üzerine verilir.
-247|Çocuğumun katılmaya uygun olduğunu onaylar, sağlığındaki her değişikliği kulübe bildireceğimi taahhüt ederim. Bu sözleşmedeki hiçbir hüküm kulübün kendi ihmalinden doğan yasal sorumluluğunu sınırlamaz.
-248|Her kullanım isteğe bağlıdır ve istediğiniz zaman geri alınabilir. Hayır demek çocuğunuzun yerini veya kendisine yapılan muameleyi asla etkilemez.
-249|Çocuğumun görüntülerinin şu amaçlarla kullanılmasına onay veriyorum…
-250|Herkese açık sosyal medya (tam adlar asla yayımlanmaz)
-251|<b>Veri sorumlusu:</b> {club}. <b>Amaç:</b> üyelik, aidat, güvenlik, kuşak sınavları ve federasyon lisanslarının yönetimi. <b>Hukuki dayanak:</b> bu sözleşmenin ifası; sağlık verileri ve görüntüler için açık rıza; yasal yükümlülükler.
-252|Üyelik, yaralanma veya hastalık (doktor raporuyla) ya da uzun tatil durumunda kulüple anlaşarak dondurulabilir.
-253|Kulüp, davranış kurallarının ciddi veya tekrarlanan ihlali hâlinde, aileyle görüşüldükten sonra üyeliği sonlandırabilir. Antrenman yapılmayan tam ayların aidatı iade edilir.
-254|Yukarıda adı geçen öğrencinin velisi veya yasal vasisiyim. Bu sözleşmeyi okudum ve kabul ediyorum; verdiğim bilgiler doğrudur.
-255|Veli / vasi imzası
-256|“Saygı, emek ve kontrolle antrenman yapacağım.”
-257|Sağlık bilgileri eğitmenlerle paylaşıldı
-258|Aileye kopya verildi
-259|Fotoğraf ve Video Onayı
-260|Öğrencilerimizin gelişimini paylaşmayı seviyoruz, ancak yalnızca izninizle. Her kullanım için evet veya hayır seçin. Kulübe bildirerek fikrinizi istediğiniz zaman değiştirebilirsiniz.
-261|Öğrencinin adı soyadı
-262|Telefon veya e-posta
-263|Görüntülerin nasıl kullanılabileceği
-264|Her kullanım isteğe bağlıdır. Hayır demek öğrencinin yerini, kendisine yapılan muameleyi veya sınavlarını asla etkilemez.
-265|Öğrencinin fotoğraf ve videolarının şu amaçlarla kullanılmasına onay veriyorum…
-266|Kulübün web sitesi, duyuru panosu ve basılı materyaller
-267|Kulübün herkese açık sosyal medyası
-268|EMTF federasyonunun web sitesi, sosyal medyası ve etkinlikleri
-269|Yerel basın ve medya (ör. bir kuşak sınavı veya müsabaka sonucu)
-270|Görüntülerin yanında yalnızca ad (soyadlar asla yayımlanmaz)
-271|Taahhüdümüz
-272|Yalnızca öğrencilerin uygun giyindiği ve güvenle antrenman yaptığı görüntüleri kullanmak.
-273|Bir çocuğun tam adını, okulunu veya ev adresini asla yayımlamamak.
-274|Talep üzerine, kontrolümüzde olduğu ölçüde, görüntüleri 7 gün içinde kulüp kanallarından kaldırmak.
-275|Etkinliklere katılan ailelerden diğer öğrencilerin görüntülerini izinsiz paylaşmamalarını istemek.
-276|<b>Kişisel verilerin korunması:</b> Bu görüntülerden {club} sorumludur. Hukuki dayanak, istediğiniz zaman geri alabileceğiniz açık rızanızdır. Görüntüler yalnızca kullanıldıkları sürece saklanır; erişim, düzeltme veya silme talep edebilir ya da şu kuruma şikâyette bulunabilirsiniz: {authority}.
-277|İmza
-278|Öğrenci (18 yaş üstü) veya velisi / yasal vasisiyim ve yukarıda işaretlenen onayları veriyorum.
-279|Öğrenci (12 yaş ve üzeri, onayını göstermek için)
-280|Kaydeden
-281|Geri alınma tarihi (varsa)
-282|SEPA Otomatik Ödeme Talimatı
-283|Bu talimat kulübün aidatları banka hesabınızdan tahsil etmesini sağlar. Lütfen büyük harflerle doldurun ve aşağıyı imzalayın. IBAN'ı dikkatle yazın: tek bir hatalı rakam ödemenin iade edilmesine yol açar.
-284|Alacaklı (kulüp)
-285|Alacaklının adı
-286|Alacaklı kimlik numarası
-287|Adres
-288|Talimat referansı (kulüp doldurur)
-289|Borçlu (hesap sahibi)
-290|Hesap sahibinin adı soyadı
-291|Posta kodu ve şehir
-292|Ülke
-293|BIC / SWIFT (biliniyorsa)
-294|Kapsanan öğrenci(ler)
-295|Ödeme türü
-296|Düzenli ödeme (aylık aidat)
-297|Tek seferlik ödeme
-298|Talimat koşulları
-299|Bu talimat formunu imzalayarak (A) alacaklının ({club}) hesabınızdan tahsilat yapmak üzere bankanıza talimat göndermesine ve (B) bankanızın alacaklının ({club}) talimatları doğrultusunda hesabınızı borçlandırmasına izin vermiş olursunuz.
-300|Haklarınız kapsamında, bankanızla yaptığınız sözleşmenin koşullarına göre bankanızdan iade talep edebilirsiniz. İade talebi, hesabınızın borçlandırıldığı tarihten itibaren 8 hafta içinde yapılmalıdır.
-301|Haklarınız, bankanızdan alabileceğiniz bir bilgilendirme belgesinde açıklanmaktadır. Kulüp her tahsilatın tutarını ve tarihini en az 2 gün önceden size bildirir.
-302|Borçlunun imzası (hesap sahibi)
-303|İmza yeri
-304|Tüm alanların doldurulması zorunludur. Lütfen bu talimatı kulübe teslim edin; kulüpte saklanır ve bankanıza gönderilmez.
-305|İlk tahsilat tarihi
-306|Aylık tutar (€)
-307|IBAN kontrol edildi
-308|Ödeme sistemine tanımlandı
-309|Ön bildirim gönderildi
-310|Deneme Dersi Onayı
-311|Hoş geldiniz — burada olmanıza sevindik. Minderde güvenliğinizi sağlayabilmemiz için lütfen ilk dersinizden önce bu kısa formu doldurun.
-312|Katılımcı
-313|Deneme dersi tarihi
-314|Acil durum kişisi (ad ve telefon)
-315|Bizi nereden duydunuz?
-316|Hızlı sağlık kontrolü
-317|Katılımcıda şunlardan biri var mı…
-318|Kalp, solunum veya nöbet rahatsızlığı ya da diyabet?
-319|Mevcut bir yaralanma ya da yakın zamanda geçirilmiş ameliyat veya kafa travması?
-320|Ciddi alerji veya acil durum ilacı?
-321|Eğitmenin bilmesi gereken özel ihtiyaçlar?
-322|Evet ise kısaca açıklayın
-323|Güvenlik ve onay
-324|Tang Soo Do temaslı bir fiziksel aktivitedir. Deneme dersleri yeni başlayanlara göre uyarlanır ve tamamen denetim altındadır, ancak darbeler, morluklar ve burkulmalar olabilir.
-325|Katılımcının katılmaya uygun olduğunu ve eğitmenin talimatlarına uyacağını onaylarım. Bu formdaki hiçbir hüküm kulübün kendi ihmalinden doğan yasal sorumluluğunu sınırlamaz.
-326|İlk yardım uygulanmasına ve acil durumda kulübün 112'yi aramasına onay veriyorum.
-327|Ayrı bir yazılı onay olmadan katılımcının hiçbir fotoğraf veya videosunun paylaşılmayacağını anlıyorum.
-328|İsteğe bağlı: Kulüp deneme dersinden sonra üyelik konusunda benimle iletişime geçebilir.
-329|<b>Kişisel verilerin korunması:</b> {club} bu bilgileri yalnızca deneme dersini güvenle yürütmek ve yukarıdaki kutuyu işaretlediyseniz sizinle iletişime geçmek için kullanır. Üye olmazsanız 6 ay sonra silinir. İstediğiniz zaman erişim, düzeltme veya silme talep edebilir ya da şu kuruma şikâyette bulunabilirsiniz: {authority}.
-330|Katılımcı (18 yaş üstü) veya veli / vasi
-331|Eğitmen
-332|Katıldı
-333|Üyelik önerildi
-334|Üye oldu
-335|Eğitmen notları
-336|Takip tarihi
-337|Kulüp Serisi
-338|Kulüp logosu
-339|Kulüp adı
-340|Kulüp adresi
-341|Program
-342|Aylık aidat
-343|Seçim
-344|Evet
-345|Hayır
-346|IBAN (hesap numarası)
-347|Kulüp soruları
-348|yukarıda belirtilen kulüp
-349|ülkenizdeki veri koruma kurumu
+213|Üyelik Dondurma veya İptal
+214|Bir üyeliği dondurmak, iptal etmek veya değiştirmek için bu formu kullanın. Lütfen üyelik sözleşmenizdeki bildirim süresi içinde kulübe teslim edin. Her şeyi yazılı olarak onaylayacağız.
+215|Üye
+216|Öğrencinin adı soyadı
+217|Mevcut program
+218|Telefon veya e-posta
+219|Talebiniz
+220|Üyeliğimi dondurmak istiyorum
+221|Üyeliğimi iptal etmek istiyorum
+222|Program değişikliği
+223|Dondurma
+224|Dondurma başlangıcı
+225|Dönüş tarihi
+226|Yaralanma veya hastalık (doktor raporu ekte)
+227|Tatil veya seyahat
+228|Başka bir neden
+229|İptal
+230|Son antrenman günü
+231|Neden (isteğe bağlı)
+232|Daha iyi yapabileceğimiz bir şey var mıydı? (isteğe bağlı)
+233|Program değişikliği
+234|Değişiklik tarihi
+235|Bilmeniz gerekenler
+236|Otomatik ödemeler üyelik sözleşmenizdeki bildirim süresinin sonuna kadar devam eder. Kulüp son ödemenin ne zaman alınacağını yazılı olarak bildirir.
+237|Dondurma kulüple kararlaştırılır ve kararlaştırılan tarihler boyunca aidatı durdurur. Aksini bildirmediğiniz sürece aidat dönüş tarihinde otomatik olarak yeniden başlar.
+238|Üyelik sona erdiğinde kulüp SEPA talimatınızı kullanmayı bırakır. Bankanızla iletişime geçmenize gerek yoktur.
+239|Üye (18 yaş üstü) veya veli / vasi
+240|Bildirim süresinin bitişi
+241|Son tahsilat tarihi
+242|Aidatın yeniden başlama tarihi
+243|Yazılı olarak onaylandı
+244|Ödeme sistemi güncellendi
+245|Federasyon lisansı güncellendi
+246|Veli ve Öğrenci Sözleşmesi
+247|Bu sözleşme birlikte nasıl antrenman yaptığımızı, kulübün neyi taahhüt ettiğini ve öğrencilerle ailelerden ne beklediğimizi açıklar. Lütfen çocuğunuzla birlikte okuyun, tüm bölümleri doldurun ve son sayfayı imzalayın.
+248|Öğrenci bilgileri
+249|Okulu
+250|Veli / vasi bilgileri
+251|Veli 1 — adı
+252|Veli 2 — adı
+253|Çocuğu kimin alabileceğini veya çocuk hakkında kimin bilgilendirilebileceğini etkileyen her türlü mahkeme kararı veya düzenleme kulübe yazılı olarak bildirilmelidir.
+254|Lütfen yukarıdaki veliler dışında kişiler belirtin.
+255|Sağlık bilgileri
+256|Yalnızca çocuğunuzun güvenliği için ihtiyaç duyan eğitmenlerle paylaşılır. Herhangi bir değişikliği bize hemen bildirin.
+257|Sağlık durumları (ör. astım, epilepsi, diyabet)
+258|Yaralanmalar veya fiziksel kısıtlamalar
+259|Çocuğunuzu desteklemek için bilmemiz gereken özel ihtiyaçlar
+260|Sağlık kartı / T.C. kimlik no. (isteğe bağlı)
+261|Çocuğu almaya yetkili kişiler
+262|Çocuklar yalnızca veliye veya burada adı geçen kişiye teslim edilir. Kimlik isteyebiliriz.
+263|(12 yaş ve üzeri öğrenciler) Çocuğum ders bitiminde kulüpten tek başına ayrılabilir.
+264|Aidatlar her ay peşin olarak SEPA otomatik ödeme talimatıyla ödenir. Bu sözleşmeyle birlikte ayrı bir SEPA talimatı imzalanır.
+265|Öğrencilerimiz
+266|Kontrollü antrenman yapar ve her partnerin güvenliğine saygı gösterir.
+267|Kendilerini veya başkalarını korumak dışında teknikleri asla ders dışında kullanmaz.
+268|Nazik konuşur — kulüpte, kulüp dışında ve internette zorbalık yapmaz.
+269|Ailelerimiz
+270|Çocukları zamanında bırakır ve alır, ders süresince ulaşılabilir olur.
+271|Dersi eğitmenlerin yönetmesine izin verir — sorular ders sonrasında memnuniyetle karşılanır.
+272|İzleyici alanından yalnızca kendi çocuğunu değil, tüm öğrencileri destekler.
+273|Çocuğunun antrenmanını veya iyiliğini etkileyebilecek her şeyi bize bildirir.
+274|Kulübümüz
+275|Güncel adli sicil kaydına sahip nitelikli eğitmenler.
+276|Uygun eğitmen oranı ve ilk yardım imkânıyla güvenli, denetimli dersler.
+277|Gelişim hakkında açık geri bildirim ve adil, şeffaf kuşak sınavları.
+278|Gizlilik içinde konuşabileceğiniz, adı belirlenmiş bir çocuk koruma sorumlusu.
+279|Kulübün mali sorumluluk sigortası vardır ve öğrenciler federasyon lisansları aracılığıyla spor kaza sigortasıyla güvence altındadır. Ayrıntılar talep üzerine verilir.
+280|Çocuğumun katılmaya uygun olduğunu onaylar, sağlığındaki her değişikliği kulübe bildireceğimi taahhüt ederim. Bu sözleşmedeki hiçbir hüküm kulübün kendi ihmalinden doğan yasal sorumluluğunu sınırlamaz.
+281|Her kullanım isteğe bağlıdır ve istediğiniz zaman geri alınabilir. Hayır demek çocuğunuzun yerini veya kendisine yapılan muameleyi asla etkilemez.
+282|Çocuğumun görüntülerinin şu amaçlarla kullanılmasına onay veriyorum…
+283|Herkese açık sosyal medya (tam adlar asla yayımlanmaz)
+284|<b>Veri sorumlusu:</b> {club}. <b>Amaç:</b> üyelik, aidat, güvenlik, kuşak sınavları ve federasyon lisanslarının yönetimi. <b>Hukuki dayanak:</b> bu sözleşmenin ifası; sağlık verileri ve görüntüler için açık rıza; yasal yükümlülükler.
+285|Üyelik, yaralanma veya hastalık (doktor raporuyla) ya da uzun tatil durumunda kulüple anlaşarak dondurulabilir.
+286|Kulüp, davranış kurallarının ciddi veya tekrarlanan ihlali hâlinde, aileyle görüşüldükten sonra üyeliği sonlandırabilir. Antrenman yapılmayan tam ayların aidatı iade edilir.
+287|Yukarıda adı geçen öğrencinin velisi veya yasal vasisiyim. Bu sözleşmeyi okudum ve kabul ediyorum; verdiğim bilgiler doğrudur.
+288|Veli / vasi imzası
+289|“Saygı, emek ve kontrolle antrenman yapacağım.”
+290|Sağlık bilgileri eğitmenlerle paylaşıldı
+291|Aileye kopya verildi
+292|Fotoğraf ve Video Onayı
+293|Öğrencilerimizin gelişimini paylaşmayı seviyoruz, ancak yalnızca izninizle. Her kullanım için evet veya hayır seçin. Kulübe bildirerek fikrinizi istediğiniz zaman değiştirebilirsiniz.
+294|Görüntülerin nasıl kullanılabileceği
+295|Her kullanım isteğe bağlıdır. Hayır demek öğrencinin yerini, kendisine yapılan muameleyi veya sınavlarını asla etkilemez.
+296|Öğrencinin fotoğraf ve videolarının şu amaçlarla kullanılmasına onay veriyorum…
+297|Kulübün web sitesi, duyuru panosu ve basılı materyaller
+298|Kulübün herkese açık sosyal medyası
+299|EMTF federasyonunun web sitesi, sosyal medyası ve etkinlikleri
+300|Yerel basın ve medya (ör. bir kuşak sınavı veya müsabaka sonucu)
+301|Görüntülerin yanında yalnızca ad (soyadlar asla yayımlanmaz)
+302|Taahhüdümüz
+303|Yalnızca öğrencilerin uygun giyindiği ve güvenle antrenman yaptığı görüntüleri kullanmak.
+304|Bir çocuğun tam adını, okulunu veya ev adresini asla yayımlamamak.
+305|Talep üzerine, kontrolümüzde olduğu ölçüde, görüntüleri 7 gün içinde kulüp kanallarından kaldırmak.
+306|Etkinliklere katılan ailelerden diğer öğrencilerin görüntülerini izinsiz paylaşmamalarını istemek.
+307|<b>Kişisel verilerin korunması:</b> Bu görüntülerden {club} sorumludur. Hukuki dayanak, istediğiniz zaman geri alabileceğiniz açık rızanızdır. Görüntüler yalnızca kullanıldıkları sürece saklanır; erişim, düzeltme veya silme talep edebilir ya da şu kuruma şikâyette bulunabilirsiniz: {authority}.
+308|İmza
+309|Öğrenci (18 yaş üstü) veya velisi / yasal vasisiyim ve yukarıda işaretlenen onayları veriyorum.
+310|Öğrenci (12 yaş ve üzeri, onayını göstermek için)
+311|Kaydeden
+312|Geri alınma tarihi (varsa)
+313|Çocuk Koruma Endişe Kaydı
+314|Gizlidir. Mümkün olan en kısa sürede, tercihen aynı gün doldurun ve yalnızca kulübün çocuk koruma sorumlusuna verin. Gerçekleri ve çocuğun kendi sözlerini yazın. Kendiniz soruşturma yapmayın, çocuğa başka soru sormayın ve sır tutacağınıza söz vermeyin.
+315|Acil güvenlik
+316|Bir çocuk acil tehlikedeyse hemen 112'yi arayın. Bu kaydı sonra doldurun.
+317|Çocuk
+318|Çocuğun adı soyadı
+319|Doğum tarihi veya yaşı
+320|Sınıf / grup
+321|Veli(ler) / vasi(ler)
+322|Endişe
+323|Nerede
+324|Çocuğun söylediği bir şey
+325|Gözlemlenen bir şey (ör. bir yaralanma veya davranış)
+326|Başka birinden gelen bilgi
+327|Çocuğun davranışında veya görünümünde bir değişiklik
+328|Ne oldu — yalnızca gerçekler, sırasıyla
+329|Çocuğun kendi sözleri, aynen söylendiği gibi (ve sizin ne söylediğiniz)
+330|Görünür yaralanma: vücudun neresinde ve nasıl göründüğü
+331|Yaralanmaların fotoğrafını çekmeyin ve çocuktan göstermesini istemeyin. Yalnızca gördüğünüzü anlatın.
+332|Bildiren kişi
+333|Kulüpteki görevi
+334|Bu kaydın tarihi ve saati
+335|Çocuk koruma sorumlusuna iletildi (ad, tarih ve saat)
+336|Yönlendirildiği kurum (sosyal hizmetler, polis) ve referans no.
+337|Çocuk koruma sorumlusu…
+338|Federasyonun çocuk koruma sorumlusunu bilgilendirdi mi?
+339|Aileyi bilgilendirdi mi (yalnızca bu çocuğu daha büyük riske sokmayacaksa)?
+340|Karar ve sonraki adımlar (çocuk koruma sorumlusu)
+341|Gözden geçirme tarihi
+342|Kapanış tarihi
+343|<b>Gizlidir.</b> {club} çocuğu korumak için bu kaydı üye dosyalarından ayrı ve kilit altında saklar. Kayıt yalnızca gerektiğinde federasyonun çocuk koruma sorumlusu ve yetkili makamlarla paylaşılır ve yasanın gerektirdiği süre boyunca muhafaza edilir.
+344|SEPA Otomatik Ödeme Talimatı
+345|Bu talimat kulübün aidatları banka hesabınızdan tahsil etmesini sağlar. Lütfen büyük harflerle doldurun ve aşağıyı imzalayın. IBAN'ı dikkatle yazın: tek bir hatalı rakam ödemenin iade edilmesine yol açar.
+346|Alacaklı (kulüp)
+347|Alacaklının adı
+348|Alacaklı kimlik numarası
+349|Adres
+350|Talimat referansı (kulüp doldurur)
+351|Borçlu (hesap sahibi)
+352|Hesap sahibinin adı soyadı
+353|Posta kodu ve şehir
+354|Ülke
+355|BIC / SWIFT (biliniyorsa)
+356|Kapsanan öğrenci(ler)
+357|Ödeme türü
+358|Düzenli ödeme (aylık aidat)
+359|Tek seferlik ödeme
+360|Talimat koşulları
+361|Bu talimat formunu imzalayarak (A) alacaklının ({club}) hesabınızdan tahsilat yapmak üzere bankanıza talimat göndermesine ve (B) bankanızın alacaklının ({club}) talimatları doğrultusunda hesabınızı borçlandırmasına izin vermiş olursunuz.
+362|Haklarınız kapsamında, bankanızla yaptığınız sözleşmenin koşullarına göre bankanızdan iade talep edebilirsiniz. İade talebi, hesabınızın borçlandırıldığı tarihten itibaren 8 hafta içinde yapılmalıdır.
+363|Haklarınız, bankanızdan alabileceğiniz bir bilgilendirme belgesinde açıklanmaktadır. Kulüp her tahsilatın tutarını ve tarihini en az 2 gün önceden size bildirir.
+364|Borçlunun imzası (hesap sahibi)
+365|İmza yeri
+366|Tüm alanların doldurulması zorunludur. Lütfen bu talimatı kulübe teslim edin; kulüpte saklanır ve bankanıza gönderilmez.
+367|İlk tahsilat tarihi
+368|Aylık tutar (€)
+369|IBAN kontrol edildi
+370|Ödeme sistemine tanımlandı
+371|Ön bildirim gönderildi
+372|Deneme Dersi Onayı
+373|Hoş geldiniz — burada olmanıza sevindik. Minderde güvenliğinizi sağlayabilmemiz için lütfen ilk dersinizden önce bu kısa formu doldurun.
+374|Katılımcı
+375|Deneme dersi tarihi
+376|Acil durum kişisi (ad ve telefon)
+377|Bizi nereden duydunuz?
+378|Hızlı sağlık kontrolü
+379|Katılımcıda şunlardan biri var mı…
+380|Kalp, solunum veya nöbet rahatsızlığı ya da diyabet?
+381|Mevcut bir yaralanma ya da yakın zamanda geçirilmiş ameliyat veya kafa travması?
+382|Ciddi alerji veya acil durum ilacı?
+383|Eğitmenin bilmesi gereken özel ihtiyaçlar?
+384|Evet ise kısaca açıklayın
+385|Güvenlik ve onay
+386|Tang Soo Do temaslı bir fiziksel aktivitedir. Deneme dersleri yeni başlayanlara göre uyarlanır ve tamamen denetim altındadır, ancak darbeler, morluklar ve burkulmalar olabilir.
+387|Katılımcının katılmaya uygun olduğunu ve eğitmenin talimatlarına uyacağını onaylarım. Bu formdaki hiçbir hüküm kulübün kendi ihmalinden doğan yasal sorumluluğunu sınırlamaz.
+388|İlk yardım uygulanmasına ve acil durumda kulübün 112'yi aramasına onay veriyorum.
+389|Ayrı bir yazılı onay olmadan katılımcının hiçbir fotoğraf veya videosunun paylaşılmayacağını anlıyorum.
+390|İsteğe bağlı: Kulüp deneme dersinden sonra üyelik konusunda benimle iletişime geçebilir.
+391|<b>Kişisel verilerin korunması:</b> {club} bu bilgileri yalnızca deneme dersini güvenle yürütmek ve yukarıdaki kutuyu işaretlediyseniz sizinle iletişime geçmek için kullanır. Üye olmazsanız 6 ay sonra silinir. İstediğiniz zaman erişim, düzeltme veya silme talep edebilir ya da şu kuruma şikâyette bulunabilirsiniz: {authority}.
+392|Katılımcı (18 yaş üstü) veya veli / vasi
+393|Eğitmen
+394|Katıldı
+395|Üyelik önerildi
+396|Üye oldu
+397|Eğitmen notları
+398|Takip tarihi
+399|Kulüp Serisi
+400|Kulüp logosu
+401|Kulüp adı
+402|Kulüp adresi
+403|Program
+404|Aylık aidat
+405|Seçim
+406|Evet
+407|Hayır
+408|IBAN (hesap numarası)
+409|Kulüp soruları
+410|yukarıda belirtilen kulüp
+411|ülkenizdeki veri koruma kurumu

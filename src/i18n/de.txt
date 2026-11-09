@@ -211,140 +211,202 @@
 210|Vereinsleitung / Cheftrainer
 211|Elternteil / Erziehungsberechtigte(r) (zur Kenntnis genommen)
 212|<b>Vertraulich.</b> {club} bewahrt diesen Bericht sicher auf, um Sicherheit und Versicherungsfälle zu bearbeiten, gibt ihn nur an Berechtigte weiter (Versicherer, Verband, Rettungsdienste) und speichert ihn so lange, wie es das Gesetz verlangt.
-213|Vereinbarung für Eltern und Schüler
-214|Diese Vereinbarung beschreibt, wie wir gemeinsam trainieren, wozu sich der Verein verpflichtet und was wir von Schülern und Familien erwarten. Bitte lesen Sie sie mit Ihrem Kind, füllen Sie alle Abschnitte aus und unterschreiben Sie auf der letzten Seite.
-215|Angaben zum Schüler
-216|Besuchte Schule
-217|Angaben zu Eltern / Erziehungsberechtigten
-218|Erziehungsberechtigte(r) 1 – Name
-219|Erziehungsberechtigte(r) 2 – Name
-220|Gerichtsbeschlüsse oder Vereinbarungen, die regeln, wer das Kind abholen oder Auskünfte über das Kind erhalten darf, müssen dem Verein schriftlich mitgeteilt werden.
-221|Bitte geben Sie andere Kontakte als die oben genannten Erziehungsberechtigten an.
-222|Gesundheitsangaben
-223|Wird nur an die Trainer weitergegeben, die diese Angaben für die Sicherheit Ihres Kindes benötigen. Bitte informieren Sie uns sofort über jede Änderung.
-224|Erkrankungen (z. B. Asthma, Epilepsie, Diabetes)
-225|Verletzungen oder körperliche Einschränkungen
-226|Besondere Bedürfnisse, die wir kennen sollten, um Ihr Kind zu unterstützen
-227|Versichertennummer der Krankenkasse (optional)
-228|Abholberechtigte Personen
-229|Kinder werden nur an Erziehungsberechtigte oder hier genannte Personen übergeben. Wir können nach einem Ausweis fragen.
-230|(Schüler ab 12 Jahren) Mein Kind darf den Verein nach dem Training allein verlassen.
-231|Die Beiträge werden monatlich im Voraus per SEPA-Lastschrift gezahlt. Zusammen mit dieser Vereinbarung wird ein separates SEPA-Mandat unterzeichnet.
-232|Unsere Schüler
-233|trainieren kontrolliert und achten auf die Sicherheit jedes Partners.
-234|setzen Techniken außerhalb des Trainings nur ein, um sich oder andere vor Schaden zu schützen.
-235|sprechen respektvoll – kein Mobbing, weder im Verein noch außerhalb, auch nicht online.
-236|Unsere Familien
-237|bringen und holen pünktlich ab und sind während des Trainings erreichbar.
-238|überlassen den Trainern die Leitung des Trainings – Fragen sind danach willkommen.
-239|feuern vom Zuschauerbereich aus alle Schüler an, nicht nur die eigenen.
-240|informieren uns über alles, was das Training oder das Wohlbefinden ihres Kindes beeinflussen könnte.
-241|Unser Verein
-242|Qualifizierte Trainer mit aktuellem erweitertem Führungszeugnis.
-243|Sichere, beaufsichtigte Trainingseinheiten mit angemessenem Betreuungsschlüssel und Erster Hilfe.
-244|Klares Feedback zum Fortschritt und faire, transparente Prüfungen.
-245|Eine benannte Kinderschutzperson, mit der Sie vertraulich sprechen können.
-246|Der Verein hat eine Haftpflichtversicherung, und die Schüler sind über ihre Verbandslizenz sportunfallversichert. Einzelheiten erhalten Sie auf Anfrage.
-247|Ich bestätige, dass mein Kind gesundheitlich teilnehmen kann, und informiere den Verein über jede gesundheitliche Veränderung. Diese Vereinbarung schränkt die gesetzliche Haftung des Vereins für eigene Fahrlässigkeit nicht ein.
-248|Jede Verwendung ist freiwillig und kann jederzeit widerrufen werden. Ein Nein hat nie Auswirkungen auf den Platz oder die Behandlung Ihres Kindes.
-249|Ich willige ein, dass Bilder meines Kindes verwendet werden für …
-250|Öffentliche soziale Medien (es werden nie vollständige Namen veröffentlicht)
-251|<b>Verantwortlicher:</b> {club}. <b>Zweck:</b> Verwaltung von Mitgliedschaft, Beiträgen, Sicherheit, Prüfungen und Verbandslizenzen. <b>Rechtsgrundlage:</b> Erfüllung dieser Vereinbarung; Einwilligung für Gesundheitsdaten und Bilder; gesetzliche Pflichten.
-252|Die Mitgliedschaft kann bei Verletzung oder Krankheit (mit ärztlichem Attest) oder bei längerem Urlaub in Absprache mit dem Verein pausiert werden.
-253|Der Verein kann die Mitgliedschaft nach schweren oder wiederholten Verstößen gegen den Verhaltenskodex beenden, nachdem mit der Familie gesprochen wurde. Beiträge für nicht trainierte volle Monate werden erstattet.
-254|Ich bin Elternteil oder gesetzliche(r) Vertreter(in) des oben genannten Schülers. Ich habe diese Vereinbarung gelesen und stimme ihr zu, und meine Angaben sind korrekt.
-255|Unterschrift Elternteil / Erziehungsberechtigte(r)
-256|„Ich trainiere mit Respekt, Einsatz und Kontrolle.“
-257|Gesundheitsangaben an Trainer weitergegeben
-258|Kopie an die Familie übergeben
-259|Einwilligung zu Fotos und Videos
-260|Wir teilen gern die Fortschritte unserer Schüler, aber nur mit Ihrer Erlaubnis. Wählen Sie für jede Verwendung Ja oder Nein. Sie können Ihre Meinung jederzeit ändern, indem Sie es dem Verein mitteilen.
-261|Vollständiger Name des Schülers
-262|Telefon oder E-Mail
-263|Wie Bilder verwendet werden dürfen
-264|Jede Verwendung ist freiwillig. Ein Nein hat nie Auswirkungen auf den Platz, die Behandlung oder die Prüfungen des Schülers.
-265|Ich willige ein, dass Fotos und Videos des Schülers verwendet werden für …
-266|Die Vereinswebsite, das Schwarze Brett und Druckmaterialien
-267|Die öffentlichen sozialen Medien des Vereins
-268|Website, soziale Medien und Veranstaltungen des Verbands EMTF
-269|Lokale Presse und Medien (z. B. ein Prüfungs- oder Wettkampfergebnis)
-270|Vorname neben Bildern (Nachnamen werden nie veröffentlicht)
-271|Unser Versprechen
-272|Nur Bilder verwenden, auf denen Schüler angemessen gekleidet und sicher trainierend zu sehen sind.
-273|Niemals den vollständigen Namen, die Schule oder den Wohnort eines Kindes veröffentlichen.
-274|Bilder innerhalb von 7 Tagen nach Aufforderung aus den Vereinskanälen entfernen, soweit es in unserer Hand liegt.
-275|Familien bei Veranstaltungen bitten, Bilder anderer Schüler nicht ohne Erlaubnis zu teilen.
-276|<b>Datenschutz:</b> {club} ist für diese Bilder verantwortlich. Rechtsgrundlage ist Ihre Einwilligung, die Sie jederzeit widerrufen können. Bilder werden nur so lange gespeichert, wie sie verwendet werden, und Sie können Auskunft, Berichtigung oder Löschung verlangen oder sich bei {authority} beschweren.
-277|Unterschrift
-278|Ich bin der Schüler (ab 18) oder sein Elternteil / gesetzliche(r) Vertreter(in) und erteile die oben angekreuzten Einwilligungen.
-279|Schüler (ab 12 Jahren, zur Zustimmung)
-280|Erfasst von
-281|Widerrufen am (falls zutreffend)
-282|SEPA-Lastschriftmandat
-283|Mit diesem Mandat kann der Verein die Mitgliedsbeiträge von Ihrem Bankkonto einziehen. Bitte in Großbuchstaben ausfüllen und unten unterschreiben. Tragen Sie die IBAN sorgfältig ein: Eine falsche Ziffer führt zur Rücklastschrift.
-284|Zahlungsempfänger (der Verein)
-285|Name des Zahlungsempfängers
-286|Gläubiger-Identifikationsnummer
-287|Anschrift
-288|Mandatsreferenz (füllt der Verein aus)
-289|Zahlungspflichtiger (Kontoinhaber)
-290|Vollständiger Name des Kontoinhabers
-291|PLZ und Ort
-292|Land
-293|BIC / SWIFT (falls bekannt)
-294|Betroffene(r) Schüler
-295|Zahlungsart
-296|Wiederkehrende Zahlung (Monatsbeiträge)
-297|Einmalige Zahlung
-298|Mandatsbedingungen
-299|Ich ermächtige (A) den Zahlungsempfänger ({club}), Zahlungen von meinem Konto mittels Lastschrift einzuziehen. Zugleich (B) weise ich mein Kreditinstitut an, die vom Zahlungsempfänger ({club}) auf mein Konto gezogenen Lastschriften einzulösen.
-300|Hinweis: Ich kann innerhalb von acht Wochen, beginnend mit dem Belastungsdatum, die Erstattung des belasteten Betrages verlangen. Es gelten dabei die mit meinem Kreditinstitut vereinbarten Bedingungen.
-301|Weitere Informationen zu Ihren Rechten erhalten Sie bei Ihrer Bank. Der Verein teilt Ihnen Betrag und Datum jeder Abbuchung mindestens 2 Tage im Voraus mit.
-302|Unterschrift des Zahlungspflichtigen (Kontoinhaber)
-303|Ort der Unterschrift
-304|Alle Felder müssen ausgefüllt werden. Bitte geben Sie dieses Mandat beim Verein ab; es verbleibt beim Verein und wird nicht an Ihre Bank geschickt.
-305|Datum der ersten Abbuchung
-306|Monatlicher Betrag (€)
-307|IBAN geprüft
-308|Im Zahlungssystem angelegt
-309|Vorabankündigung versandt
-310|Einwilligung zum Probetraining
-311|Willkommen – schön, dass Sie da sind. Bitte füllen Sie dieses kurze Formular vor Ihrem ersten Training aus, damit wir Ihre Sicherheit auf der Matte gewährleisten können.
-312|Teilnehmer
-313|Datum des Probetrainings
-314|Notfallkontakt (Name und Telefon)
-315|Wie haben Sie von uns erfahren?
-316|Kurzer Gesundheitscheck
-317|Hat der Teilnehmer …
-318|eine Herz-, Atemwegs- oder Anfallserkrankung oder Diabetes?
-319|eine aktuelle Verletzung, eine kürzliche Operation oder Kopfverletzung?
-320|eine schwere Allergie oder Notfallmedikamente?
-321|besondere Bedürfnisse, die der Trainer kennen sollte?
-322|Falls ja, bitte kurz erläutern
-323|Sicherheit und Einwilligung
-324|Tang Soo Do ist eine körperliche Kontaktsportart. Probetrainings sind auf Anfänger abgestimmt und vollständig beaufsichtigt, dennoch können Prellungen, blaue Flecken und Verstauchungen auftreten.
-325|Ich bestätige, dass der Teilnehmer gesundheitlich teilnehmen kann und den Anweisungen des Trainers folgt. Dieses Formular schränkt die gesetzliche Haftung des Vereins für eigene Fahrlässigkeit nicht ein.
-326|Ich bin einverstanden, dass Erste Hilfe geleistet wird und der Verein im Notfall die 112 anruft.
-327|Mir ist bekannt, dass ohne gesonderte schriftliche Einwilligung keine Fotos oder Videos des Teilnehmers geteilt werden.
-328|Optional: Der Verein darf mich nach dem Probetraining wegen einer Mitgliedschaft kontaktieren.
-329|<b>Datenschutz:</b> {club} verwendet diese Angaben nur, um das Probetraining sicher durchzuführen und, falls Sie das Kästchen oben angekreuzt haben, Sie danach zu kontaktieren. Sie werden nach 6 Monaten gelöscht, wenn Sie nicht beitreten. Sie können jederzeit Auskunft, Berichtigung oder Löschung verlangen oder sich bei {authority} beschweren.
-330|Teilnehmer (ab 18) oder Elternteil / Erziehungsberechtigte(r)
-331|Trainer
-332|Teilgenommen
-333|Mitgliedschaft angeboten
-334|Beigetreten
-335|Notizen des Trainers
-336|Nachfassdatum
-337|Vereinsformulare
-338|Vereinslogo
-339|Name des Vereins
-340|Anschrift des Vereins
-341|Programm
-342|Monatsbeitrag
-343|Auswahl
-344|Ja
-345|Nein
-346|IBAN (Kontonummer)
-347|Fragen des Vereins
-348|der oben genannte Verein
-349|der Datenschutzaufsichtsbehörde Ihres Landes
+213|Mitgliedschaft pausieren oder kündigen
+214|Mit diesem Formular können Sie eine Mitgliedschaft pausieren, kündigen oder ändern. Bitte geben Sie es innerhalb der Kündigungsfrist Ihrer Mitgliedschaftsvereinbarung beim Verein ab. Wir bestätigen alles schriftlich.
+215|Mitglied
+216|Vollständiger Name des Schülers
+217|Aktuelles Programm
+218|Telefon oder E-Mail
+219|Ihr Anliegen
+220|Mitgliedschaft pausieren
+221|Mitgliedschaft kündigen
+222|Programm wechseln
+223|Pause
+224|Pause ab
+225|Rückkehr am
+226|Verletzung oder Krankheit (ärztliches Attest anbei)
+227|Urlaub oder Reise
+228|Anderer Grund
+229|Kündigung
+230|Letzter Trainingstag
+231|Grund (optional)
+232|Gibt es etwas, das wir hätten besser machen können? (optional)
+233|Programmwechsel
+234|Wechsel ab (Datum)
+235|Gut zu wissen
+236|Die Lastschriften laufen bis zum Ende der Kündigungsfrist Ihrer Mitgliedschaftsvereinbarung weiter. Der Verein bestätigt schriftlich, wann die letzte Abbuchung erfolgt.
+237|Eine Pause wird mit dem Verein vereinbart und setzt die Beiträge für die vereinbarten Daten aus. Die Beiträge laufen am Rückkehrdatum automatisch wieder an, sofern Sie uns nichts anderes mitteilen.
+238|Mit dem Ende der Mitgliedschaft verwendet der Verein Ihr SEPA-Mandat nicht mehr. Sie müssen sich nicht an Ihre Bank wenden.
+239|Mitglied (ab 18) oder Elternteil / Erziehungsberechtigte(r)
+240|Ende der Kündigungsfrist
+241|Datum der letzten Abbuchung
+242|Beiträge laufen wieder ab
+243|Schriftlich bestätigt
+244|Zahlungssystem aktualisiert
+245|Verbandslizenz aktualisiert
+246|Vereinbarung für Eltern und Schüler
+247|Diese Vereinbarung beschreibt, wie wir gemeinsam trainieren, wozu sich der Verein verpflichtet und was wir von Schülern und Familien erwarten. Bitte lesen Sie sie mit Ihrem Kind, füllen Sie alle Abschnitte aus und unterschreiben Sie auf der letzten Seite.
+248|Angaben zum Schüler
+249|Besuchte Schule
+250|Angaben zu Eltern / Erziehungsberechtigten
+251|Erziehungsberechtigte(r) 1 – Name
+252|Erziehungsberechtigte(r) 2 – Name
+253|Gerichtsbeschlüsse oder Vereinbarungen, die regeln, wer das Kind abholen oder Auskünfte über das Kind erhalten darf, müssen dem Verein schriftlich mitgeteilt werden.
+254|Bitte geben Sie andere Kontakte als die oben genannten Erziehungsberechtigten an.
+255|Gesundheitsangaben
+256|Wird nur an die Trainer weitergegeben, die diese Angaben für die Sicherheit Ihres Kindes benötigen. Bitte informieren Sie uns sofort über jede Änderung.
+257|Erkrankungen (z. B. Asthma, Epilepsie, Diabetes)
+258|Verletzungen oder körperliche Einschränkungen
+259|Besondere Bedürfnisse, die wir kennen sollten, um Ihr Kind zu unterstützen
+260|Versichertennummer der Krankenkasse (optional)
+261|Abholberechtigte Personen
+262|Kinder werden nur an Erziehungsberechtigte oder hier genannte Personen übergeben. Wir können nach einem Ausweis fragen.
+263|(Schüler ab 12 Jahren) Mein Kind darf den Verein nach dem Training allein verlassen.
+264|Die Beiträge werden monatlich im Voraus per SEPA-Lastschrift gezahlt. Zusammen mit dieser Vereinbarung wird ein separates SEPA-Mandat unterzeichnet.
+265|Unsere Schüler
+266|trainieren kontrolliert und achten auf die Sicherheit jedes Partners.
+267|setzen Techniken außerhalb des Trainings nur ein, um sich oder andere vor Schaden zu schützen.
+268|sprechen respektvoll – kein Mobbing, weder im Verein noch außerhalb, auch nicht online.
+269|Unsere Familien
+270|bringen und holen pünktlich ab und sind während des Trainings erreichbar.
+271|überlassen den Trainern die Leitung des Trainings – Fragen sind danach willkommen.
+272|feuern vom Zuschauerbereich aus alle Schüler an, nicht nur die eigenen.
+273|informieren uns über alles, was das Training oder das Wohlbefinden ihres Kindes beeinflussen könnte.
+274|Unser Verein
+275|Qualifizierte Trainer mit aktuellem erweitertem Führungszeugnis.
+276|Sichere, beaufsichtigte Trainingseinheiten mit angemessenem Betreuungsschlüssel und Erster Hilfe.
+277|Klares Feedback zum Fortschritt und faire, transparente Prüfungen.
+278|Eine benannte Kinderschutzperson, mit der Sie vertraulich sprechen können.
+279|Der Verein hat eine Haftpflichtversicherung, und die Schüler sind über ihre Verbandslizenz sportunfallversichert. Einzelheiten erhalten Sie auf Anfrage.
+280|Ich bestätige, dass mein Kind gesundheitlich teilnehmen kann, und informiere den Verein über jede gesundheitliche Veränderung. Diese Vereinbarung schränkt die gesetzliche Haftung des Vereins für eigene Fahrlässigkeit nicht ein.
+281|Jede Verwendung ist freiwillig und kann jederzeit widerrufen werden. Ein Nein hat nie Auswirkungen auf den Platz oder die Behandlung Ihres Kindes.
+282|Ich willige ein, dass Bilder meines Kindes verwendet werden für …
+283|Öffentliche soziale Medien (es werden nie vollständige Namen veröffentlicht)
+284|<b>Verantwortlicher:</b> {club}. <b>Zweck:</b> Verwaltung von Mitgliedschaft, Beiträgen, Sicherheit, Prüfungen und Verbandslizenzen. <b>Rechtsgrundlage:</b> Erfüllung dieser Vereinbarung; Einwilligung für Gesundheitsdaten und Bilder; gesetzliche Pflichten.
+285|Die Mitgliedschaft kann bei Verletzung oder Krankheit (mit ärztlichem Attest) oder bei längerem Urlaub in Absprache mit dem Verein pausiert werden.
+286|Der Verein kann die Mitgliedschaft nach schweren oder wiederholten Verstößen gegen den Verhaltenskodex beenden, nachdem mit der Familie gesprochen wurde. Beiträge für nicht trainierte volle Monate werden erstattet.
+287|Ich bin Elternteil oder gesetzliche(r) Vertreter(in) des oben genannten Schülers. Ich habe diese Vereinbarung gelesen und stimme ihr zu, und meine Angaben sind korrekt.
+288|Unterschrift Elternteil / Erziehungsberechtigte(r)
+289|„Ich trainiere mit Respekt, Einsatz und Kontrolle.“
+290|Gesundheitsangaben an Trainer weitergegeben
+291|Kopie an die Familie übergeben
+292|Einwilligung zu Fotos und Videos
+293|Wir teilen gern die Fortschritte unserer Schüler, aber nur mit Ihrer Erlaubnis. Wählen Sie für jede Verwendung Ja oder Nein. Sie können Ihre Meinung jederzeit ändern, indem Sie es dem Verein mitteilen.
+294|Wie Bilder verwendet werden dürfen
+295|Jede Verwendung ist freiwillig. Ein Nein hat nie Auswirkungen auf den Platz, die Behandlung oder die Prüfungen des Schülers.
+296|Ich willige ein, dass Fotos und Videos des Schülers verwendet werden für …
+297|Die Vereinswebsite, das Schwarze Brett und Druckmaterialien
+298|Die öffentlichen sozialen Medien des Vereins
+299|Website, soziale Medien und Veranstaltungen des Verbands EMTF
+300|Lokale Presse und Medien (z. B. ein Prüfungs- oder Wettkampfergebnis)
+301|Vorname neben Bildern (Nachnamen werden nie veröffentlicht)
+302|Unser Versprechen
+303|Nur Bilder verwenden, auf denen Schüler angemessen gekleidet und sicher trainierend zu sehen sind.
+304|Niemals den vollständigen Namen, die Schule oder den Wohnort eines Kindes veröffentlichen.
+305|Bilder innerhalb von 7 Tagen nach Aufforderung aus den Vereinskanälen entfernen, soweit es in unserer Hand liegt.
+306|Familien bei Veranstaltungen bitten, Bilder anderer Schüler nicht ohne Erlaubnis zu teilen.
+307|<b>Datenschutz:</b> {club} ist für diese Bilder verantwortlich. Rechtsgrundlage ist Ihre Einwilligung, die Sie jederzeit widerrufen können. Bilder werden nur so lange gespeichert, wie sie verwendet werden, und Sie können Auskunft, Berichtigung oder Löschung verlangen oder sich bei {authority} beschweren.
+308|Unterschrift
+309|Ich bin der Schüler (ab 18) oder sein Elternteil / gesetzliche(r) Vertreter(in) und erteile die oben angekreuzten Einwilligungen.
+310|Schüler (ab 12 Jahren, zur Zustimmung)
+311|Erfasst von
+312|Widerrufen am (falls zutreffend)
+313|Kinderschutz-Meldebogen
+314|Vertraulich. So bald wie möglich ausfüllen, am besten noch am selben Tag, und nur der Kinderschutzbeauftragten des Vereins übergeben. Halten Sie Fakten und die eigenen Worte des Kindes fest. Ermitteln Sie nicht selbst, befragen Sie das Kind nicht weiter und versprechen Sie nicht, ein Geheimnis zu bewahren.
+315|Unmittelbare Sicherheit
+316|Wenn ein Kind in unmittelbarer Gefahr ist, rufen Sie sofort die 112 an. Füllen Sie diesen Bogen danach aus.
+317|Das Kind
+318|Vollständiger Name des Kindes
+319|Geburtsdatum oder Alter
+320|Gruppe / Kurs
+321|Eltern / Erziehungsberechtigte
+322|Die Sorge
+323|Wo
+324|Etwas, das das Kind gesagt hat
+325|Etwas Beobachtetes (z. B. eine Verletzung oder ein Verhalten)
+326|Informationen von einer anderen Person
+327|Eine Veränderung im Verhalten oder Erscheinungsbild des Kindes
+328|Was ist passiert – nur Fakten, in zeitlicher Reihenfolge
+329|Die eigenen Worte des Kindes, genau wie gesagt (und was Sie gesagt haben)
+330|Sichtbare Verletzungen: wo am Körper und wie sie aussahen
+331|Fotografieren Sie keine Verletzungen und bitten Sie das Kind nicht, sie zu zeigen. Beschreiben Sie nur, was Sie gesehen haben.
+332|Meldende Person
+333|Funktion im Verein
+334|Datum und Uhrzeit dieser Aufzeichnung
+335|An die Kinderschutzbeauftragte übergeben (Name, Datum und Uhrzeit)
+336|Weitergeleitet an (Jugendamt, Polizei) und Aktenzeichen
+337|Hat die Kinderschutzbeauftragte …
+338|den Kinderschutzbeauftragten des Verbands informiert?
+339|die Eltern informiert (nur wenn dies das Kind keinem größeren Risiko aussetzt)?
+340|Entscheidung und nächste Schritte (Kinderschutzbeauftragte)
+341|Überprüfungsdatum
+342|Abgeschlossen am
+343|<b>Vertraulich.</b> {club} bewahrt diese Aufzeichnung zum Schutz des Kindes verschlossen und getrennt von den Mitgliederakten auf. Sie wird nur bei Bedarf an den Kinderschutzbeauftragten des Verbands und die Behörden weitergegeben und so lange aufbewahrt, wie es das Gesetz verlangt.
+344|SEPA-Lastschriftmandat
+345|Mit diesem Mandat kann der Verein die Mitgliedsbeiträge von Ihrem Bankkonto einziehen. Bitte in Großbuchstaben ausfüllen und unten unterschreiben. Tragen Sie die IBAN sorgfältig ein: Eine falsche Ziffer führt zur Rücklastschrift.
+346|Zahlungsempfänger (der Verein)
+347|Name des Zahlungsempfängers
+348|Gläubiger-Identifikationsnummer
+349|Anschrift
+350|Mandatsreferenz (füllt der Verein aus)
+351|Zahlungspflichtiger (Kontoinhaber)
+352|Vollständiger Name des Kontoinhabers
+353|PLZ und Ort
+354|Land
+355|BIC / SWIFT (falls bekannt)
+356|Betroffene(r) Schüler
+357|Zahlungsart
+358|Wiederkehrende Zahlung (Monatsbeiträge)
+359|Einmalige Zahlung
+360|Mandatsbedingungen
+361|Ich ermächtige (A) den Zahlungsempfänger ({club}), Zahlungen von meinem Konto mittels Lastschrift einzuziehen. Zugleich (B) weise ich mein Kreditinstitut an, die vom Zahlungsempfänger ({club}) auf mein Konto gezogenen Lastschriften einzulösen.
+362|Hinweis: Ich kann innerhalb von acht Wochen, beginnend mit dem Belastungsdatum, die Erstattung des belasteten Betrages verlangen. Es gelten dabei die mit meinem Kreditinstitut vereinbarten Bedingungen.
+363|Weitere Informationen zu Ihren Rechten erhalten Sie bei Ihrer Bank. Der Verein teilt Ihnen Betrag und Datum jeder Abbuchung mindestens 2 Tage im Voraus mit.
+364|Unterschrift des Zahlungspflichtigen (Kontoinhaber)
+365|Ort der Unterschrift
+366|Alle Felder müssen ausgefüllt werden. Bitte geben Sie dieses Mandat beim Verein ab; es verbleibt beim Verein und wird nicht an Ihre Bank geschickt.
+367|Datum der ersten Abbuchung
+368|Monatlicher Betrag (€)
+369|IBAN geprüft
+370|Im Zahlungssystem angelegt
+371|Vorabankündigung versandt
+372|Einwilligung zum Probetraining
+373|Willkommen – schön, dass Sie da sind. Bitte füllen Sie dieses kurze Formular vor Ihrem ersten Training aus, damit wir Ihre Sicherheit auf der Matte gewährleisten können.
+374|Teilnehmer
+375|Datum des Probetrainings
+376|Notfallkontakt (Name und Telefon)
+377|Wie haben Sie von uns erfahren?
+378|Kurzer Gesundheitscheck
+379|Hat der Teilnehmer …
+380|eine Herz-, Atemwegs- oder Anfallserkrankung oder Diabetes?
+381|eine aktuelle Verletzung, eine kürzliche Operation oder Kopfverletzung?
+382|eine schwere Allergie oder Notfallmedikamente?
+383|besondere Bedürfnisse, die der Trainer kennen sollte?
+384|Falls ja, bitte kurz erläutern
+385|Sicherheit und Einwilligung
+386|Tang Soo Do ist eine körperliche Kontaktsportart. Probetrainings sind auf Anfänger abgestimmt und vollständig beaufsichtigt, dennoch können Prellungen, blaue Flecken und Verstauchungen auftreten.
+387|Ich bestätige, dass der Teilnehmer gesundheitlich teilnehmen kann und den Anweisungen des Trainers folgt. Dieses Formular schränkt die gesetzliche Haftung des Vereins für eigene Fahrlässigkeit nicht ein.
+388|Ich bin einverstanden, dass Erste Hilfe geleistet wird und der Verein im Notfall die 112 anruft.
+389|Mir ist bekannt, dass ohne gesonderte schriftliche Einwilligung keine Fotos oder Videos des Teilnehmers geteilt werden.
+390|Optional: Der Verein darf mich nach dem Probetraining wegen einer Mitgliedschaft kontaktieren.
+391|<b>Datenschutz:</b> {club} verwendet diese Angaben nur, um das Probetraining sicher durchzuführen und, falls Sie das Kästchen oben angekreuzt haben, Sie danach zu kontaktieren. Sie werden nach 6 Monaten gelöscht, wenn Sie nicht beitreten. Sie können jederzeit Auskunft, Berichtigung oder Löschung verlangen oder sich bei {authority} beschweren.
+392|Teilnehmer (ab 18) oder Elternteil / Erziehungsberechtigte(r)
+393|Trainer
+394|Teilgenommen
+395|Mitgliedschaft angeboten
+396|Beigetreten
+397|Notizen des Trainers
+398|Nachfassdatum
+399|Vereinsformulare
+400|Vereinslogo
+401|Name des Vereins
+402|Anschrift des Vereins
+403|Programm
+404|Monatsbeitrag
+405|Auswahl
+406|Ja
+407|Nein
+408|IBAN (Kontonummer)
+409|Fragen des Vereins
+410|der oben genannte Verein
+411|der Datenschutzaufsichtsbehörde Ihres Landes

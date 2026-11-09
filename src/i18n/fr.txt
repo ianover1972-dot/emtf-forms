@@ -211,140 +211,202 @@
 210|Responsable du club / instructeur en chef
 211|Parent / tuteur (pris connaissance)
 212|<b>Confidentiel.</b> {club} conserve ce rapport en sécurité pour gérer la sécurité et les déclarations d'assurance, ne le communique qu'à ceux qui en ont besoin (assureur, fédération, services d'urgence) et le conserve aussi longtemps que la loi l'exige.
-213|Accord parents et élève
-214|Cet accord explique comment nous nous entraînons ensemble, à quoi le club s'engage et ce que nous attendons des élèves et des familles. Lisez-le avec votre enfant, remplissez toutes les sections et signez à la dernière page.
-215|Informations sur l'élève
-216|École fréquentée
-217|Informations sur les parents / tuteurs
-218|Tuteur 1 — nom
-219|Tuteur 2 — nom
-220|Toute décision de justice ou tout arrangement concernant les personnes autorisées à récupérer l'enfant ou à être informées à son sujet doit être communiqué au club par écrit.
-221|Veuillez indiquer des contacts autres que les tuteurs ci-dessus.
-222|Informations de santé
-223|Communiqué uniquement aux instructeurs qui en ont besoin pour la sécurité de votre enfant. Prévenez-nous immédiatement de tout changement.
-224|Problèmes de santé (p. ex. asthme, épilepsie, diabète)
-225|Blessures ou limitations physiques
-226|Besoins particuliers à connaître pour accompagner votre enfant
-227|N° de sécurité sociale / carte de santé (facultatif)
-228|Personnes autorisées à récupérer l'enfant
-229|Les enfants ne seront confiés qu'à un tuteur ou à une personne indiquée ici. Une pièce d'identité peut être demandée.
-230|(Élèves de 12 ans et plus) Mon enfant peut quitter le club seul à la fin du cours.
-231|Les cotisations sont payées mensuellement et d'avance par prélèvement SEPA. Un mandat SEPA distinct est signé avec cet accord.
-232|Nos élèves
-233|S'entraînent avec contrôle et respectent la sécurité de chaque partenaire.
-234|N'utilisent jamais les techniques en dehors du cours, sauf pour se protéger ou protéger autrui.
-235|Parlent avec respect — pas de harcèlement, au club ou ailleurs, y compris en ligne.
-236|Nos familles
-237|Déposent et récupèrent les enfants à l'heure et restent joignables pendant le cours.
-238|Laissent les instructeurs diriger le cours — les questions sont bienvenues après.
-239|Encouragent tous les élèves, pas seulement le leur, depuis l'espace spectateurs.
-240|Nous informent de tout ce qui peut affecter l'entraînement ou le bien-être de leur enfant.
-241|Notre club
-242|Des instructeurs qualifiés disposant d'un extrait de casier judiciaire à jour.
-243|Des cours sûrs et encadrés, avec un taux d'encadrement adapté et des premiers secours.
-244|Un retour clair sur les progrès et des passages de grade justes et transparents.
-245|Un référent protection de l'enfance désigné, à qui parler en toute confidentialité.
-246|Le club est couvert par une assurance responsabilité civile et les élèves bénéficient d'une assurance accident sportif via leur licence fédérale. Les détails sont disponibles sur demande.
-247|Je confirme que mon enfant est apte à participer et j'informerai le club de tout changement de son état de santé. Rien dans cet accord ne limite la responsabilité légale du club pour sa propre négligence.
-248|Chaque utilisation est facultative et peut être retirée à tout moment. Refuser n'a jamais d'incidence sur la place ou le traitement de votre enfant.
-249|J'autorise l'utilisation d'images de mon enfant pour…
-250|Les réseaux sociaux publics (les noms complets ne sont jamais publiés)
-251|<b>Responsable du traitement :</b> {club}. <b>Finalité :</b> gestion des adhésions, cotisations, de la sécurité, des passages de grade et des licences fédérales. <b>Base légale :</b> exécution de cet accord ; consentement pour les données de santé et les images ; obligations légales.
-252|L'adhésion peut être suspendue en cas de blessure ou de maladie (avec certificat médical) ou de vacances prolongées, en accord avec le club.
-253|Le club peut mettre fin à l'adhésion après des manquements graves ou répétés au code de conduite, après en avoir parlé avec la famille. Les cotisations des mois complets non utilisés seront remboursées.
-254|Je suis le parent ou le tuteur légal de l'élève nommé ci-dessus. J'ai lu et j'accepte cet accord, et les informations fournies sont exactes.
-255|Signature du parent / tuteur
-256|« Je m'entraînerai avec respect, effort et contrôle. »
-257|Infos santé transmises aux instructeurs
-258|Copie remise à la famille
-259|Autorisation photo et vidéo
-260|Nous aimons partager les progrès de nos élèves, mais uniquement avec votre autorisation. Choisissez oui ou non pour chaque utilisation. Vous pouvez changer d'avis à tout moment en prévenant le club.
-261|Nom complet de l'élève
-262|Téléphone ou e-mail
-263|Utilisation des images
-264|Chaque utilisation est facultative. Refuser n'a jamais d'incidence sur la place, le traitement ou les passages de grade de l'élève.
-265|J'autorise l'utilisation de photos et vidéos de l'élève pour…
-266|Le site web du club, le tableau d'affichage et les supports imprimés
-267|Les réseaux sociaux publics du club
-268|Le site web, les réseaux sociaux et les événements de la fédération EMTF
-269|La presse et les médias locaux (p. ex. un résultat de passage de grade ou de compétition)
-270|Le prénom affiché avec les images (les noms de famille ne sont jamais publiés)
-271|Notre engagement
-272|N'utiliser que des images montrant des élèves correctement vêtus et s'entraînant en sécurité.
-273|Ne jamais publier le nom complet, l'école ou le lieu de résidence d'un enfant.
-274|Retirer les images des canaux du club dans les 7 jours suivant une demande, lorsque cela dépend de nous.
-275|Demander aux familles présentes aux événements de ne pas partager les images d'autres élèves sans autorisation.
-276|<b>Protection des données :</b> {club} est responsable de ces images. La base légale est votre consentement, que vous pouvez retirer à tout moment. Les images ne sont conservées que tant qu'elles sont utilisées, et vous pouvez en demander l'accès, la rectification ou l'effacement, ou introduire une réclamation auprès de {authority}.
-277|Signature
-278|Je suis l'élève (majeur) ou son parent / tuteur légal, et je donne les autorisations cochées ci-dessus.
-279|Élève (à partir de 12 ans, en signe d'accord)
-280|Enregistré par
-281|Retiré le (le cas échéant)
-282|Mandat de prélèvement SEPA
-283|Ce mandat permet au club de prélever les cotisations sur votre compte bancaire. Veuillez le remplir en majuscules et le signer ci-dessous. Saisissez l'IBAN avec soin : un chiffre erroné entraînera le rejet du prélèvement.
-284|Créancier (le club)
-285|Nom du créancier
-286|Identifiant créancier SEPA (ICS)
-287|Adresse
-288|Référence unique du mandat (remplie par le club)
-289|Débiteur (titulaire du compte)
-290|Nom complet du titulaire du compte
-291|Code postal et ville
-292|Pays
-293|BIC / SWIFT (si connu)
-294|Élève(s) concerné(s)
-295|Type de paiement
-296|Paiement récurrent (cotisations mensuelles)
-297|Paiement ponctuel
-298|Conditions du mandat
-299|En signant ce formulaire de mandat, vous autorisez (A) {club} à envoyer des instructions à votre banque pour débiter votre compte, et (B) votre banque à débiter votre compte conformément aux instructions de {club}.
-300|Vous bénéficiez du droit d'être remboursé par votre banque selon les conditions décrites dans la convention que vous avez passée avec elle. Une demande de remboursement doit être présentée dans les 8 semaines suivant la date de débit de votre compte.
-301|Vos droits sont expliqués dans un document que vous pouvez obtenir auprès de votre banque. Le club vous informera du montant et de la date de chaque prélèvement au moins 2 jours à l'avance.
-302|Signature du débiteur (titulaire du compte)
-303|Lieu de signature
-304|Tous les champs doivent être remplis. Veuillez remettre ce mandat au club ; il est conservé par le club et n'est pas envoyé à votre banque.
-305|Date du premier prélèvement
-306|Montant mensuel (€)
-307|IBAN vérifié
-308|Enregistré dans le système de paiement
-309|Pré-notification envoyée
-310|Autorisation pour un cours d'essai
-311|Bienvenue — nous sommes ravis de vous accueillir. Veuillez remplir ce court formulaire avant votre premier cours afin que nous puissions assurer votre sécurité sur le tatami.
-312|Participant
-313|Date du cours d'essai
-314|Contact d'urgence (nom et téléphone)
-315|Comment nous avez-vous connus ?
-316|Bilan de santé rapide
-317|Le participant a-t-il…
-318|Un problème cardiaque, respiratoire, des crises convulsives ou du diabète ?
-319|Une blessure actuelle, une opération ou un traumatisme crânien récents ?
-320|Une allergie grave ou un traitement d'urgence ?
-321|Des besoins particuliers que l'instructeur devrait connaître ?
-322|Si oui, veuillez préciser brièvement
-323|Sécurité et consentement
-324|Le Tang Soo Do est une activité physique de contact. Les cours d'essai sont adaptés aux débutants et entièrement encadrés, mais des chocs, des bleus et des entorses peuvent survenir.
-325|Je confirme que le participant est apte à participer et suivra les consignes de l'instructeur. Rien dans ce formulaire ne limite la responsabilité légale du club pour sa propre négligence.
-326|J'accepte que les premiers secours soient prodigués et que le club appelle le 112 en cas d'urgence.
-327|Je comprends qu'aucune photo ni vidéo du participant ne sera partagée sans autorisation écrite distincte.
-328|Facultatif : le club peut me contacter au sujet d'une inscription après l'essai.
-329|<b>Protection des données :</b> {club} utilise ces informations uniquement pour assurer le cours d'essai en sécurité et, si vous avez coché la case ci-dessus, pour vous recontacter. Elles sont supprimées après 6 mois si vous ne vous inscrivez pas. Vous pouvez demander l'accès, la rectification ou l'effacement à tout moment, ou introduire une réclamation auprès de {authority}.
-330|Participant (majeur) ou parent / tuteur
-331|Instructeur
-332|Présent
-333|Adhésion proposée
-334|Inscrit
-335|Remarques de l'instructeur
-336|Date de relance
-337|Série Clubs
-338|Logo du club
-339|Nom du club
-340|Adresse du club
-341|Programme
-342|Cotisation mensuelle
-343|Choix
-344|Oui
-345|Non
-346|IBAN (numéro de compte)
-347|Questions du club
-348|le club indiqué ci-dessus
-349|l'autorité de protection des données de votre pays
+213|Suspension ou résiliation de l'adhésion
+214|Utilisez ce formulaire pour suspendre, résilier ou modifier une adhésion. Remettez-le au club en respectant le préavis indiqué dans votre accord d'adhésion. Nous confirmerons tout par écrit.
+215|Membre
+216|Nom complet de l'élève
+217|Programme actuel
+218|Téléphone ou e-mail
+219|Votre demande
+220|Suspendre mon adhésion
+221|Résilier mon adhésion
+222|Changer de programme
+223|Suspension
+224|Suspension à partir du
+225|Reprise le
+226|Blessure ou maladie (certificat médical joint)
+227|Vacances ou voyage
+228|Autre motif
+229|Résiliation
+230|Dernier jour d'entraînement
+231|Motif (facultatif)
+232|Aurions-nous pu faire mieux sur un point ? (facultatif)
+233|Changement de programme
+234|Changement à partir du (date)
+235|Bon à savoir
+236|Les prélèvements continuent jusqu'à la fin du préavis prévu dans votre accord d'adhésion. Le club vous confirmera par écrit la date du dernier prélèvement.
+237|Une suspension est convenue avec le club et interrompt les cotisations pour les dates convenues. Les cotisations reprennent automatiquement à la date de reprise, sauf indication contraire de votre part.
+238|Lorsqu'une adhésion prend fin, le club cesse d'utiliser votre mandat SEPA. Vous n'avez pas besoin de contacter votre banque.
+239|Membre (majeur) ou parent / tuteur
+240|Fin du préavis
+241|Date du dernier prélèvement
+242|Reprise des cotisations le
+243|Confirmé par écrit
+244|Système de paiement mis à jour
+245|Licence fédérale mise à jour
+246|Accord parents et élève
+247|Cet accord explique comment nous nous entraînons ensemble, à quoi le club s'engage et ce que nous attendons des élèves et des familles. Lisez-le avec votre enfant, remplissez toutes les sections et signez à la dernière page.
+248|Informations sur l'élève
+249|École fréquentée
+250|Informations sur les parents / tuteurs
+251|Tuteur 1 — nom
+252|Tuteur 2 — nom
+253|Toute décision de justice ou tout arrangement concernant les personnes autorisées à récupérer l'enfant ou à être informées à son sujet doit être communiqué au club par écrit.
+254|Veuillez indiquer des contacts autres que les tuteurs ci-dessus.
+255|Informations de santé
+256|Communiqué uniquement aux instructeurs qui en ont besoin pour la sécurité de votre enfant. Prévenez-nous immédiatement de tout changement.
+257|Problèmes de santé (p. ex. asthme, épilepsie, diabète)
+258|Blessures ou limitations physiques
+259|Besoins particuliers à connaître pour accompagner votre enfant
+260|N° de sécurité sociale / carte de santé (facultatif)
+261|Personnes autorisées à récupérer l'enfant
+262|Les enfants ne seront confiés qu'à un tuteur ou à une personne indiquée ici. Une pièce d'identité peut être demandée.
+263|(Élèves de 12 ans et plus) Mon enfant peut quitter le club seul à la fin du cours.
+264|Les cotisations sont payées mensuellement et d'avance par prélèvement SEPA. Un mandat SEPA distinct est signé avec cet accord.
+265|Nos élèves
+266|S'entraînent avec contrôle et respectent la sécurité de chaque partenaire.
+267|N'utilisent jamais les techniques en dehors du cours, sauf pour se protéger ou protéger autrui.
+268|Parlent avec respect — pas de harcèlement, au club ou ailleurs, y compris en ligne.
+269|Nos familles
+270|Déposent et récupèrent les enfants à l'heure et restent joignables pendant le cours.
+271|Laissent les instructeurs diriger le cours — les questions sont bienvenues après.
+272|Encouragent tous les élèves, pas seulement le leur, depuis l'espace spectateurs.
+273|Nous informent de tout ce qui peut affecter l'entraînement ou le bien-être de leur enfant.
+274|Notre club
+275|Des instructeurs qualifiés disposant d'un extrait de casier judiciaire à jour.
+276|Des cours sûrs et encadrés, avec un taux d'encadrement adapté et des premiers secours.
+277|Un retour clair sur les progrès et des passages de grade justes et transparents.
+278|Un référent protection de l'enfance désigné, à qui parler en toute confidentialité.
+279|Le club est couvert par une assurance responsabilité civile et les élèves bénéficient d'une assurance accident sportif via leur licence fédérale. Les détails sont disponibles sur demande.
+280|Je confirme que mon enfant est apte à participer et j'informerai le club de tout changement de son état de santé. Rien dans cet accord ne limite la responsabilité légale du club pour sa propre négligence.
+281|Chaque utilisation est facultative et peut être retirée à tout moment. Refuser n'a jamais d'incidence sur la place ou le traitement de votre enfant.
+282|J'autorise l'utilisation d'images de mon enfant pour…
+283|Les réseaux sociaux publics (les noms complets ne sont jamais publiés)
+284|<b>Responsable du traitement :</b> {club}. <b>Finalité :</b> gestion des adhésions, cotisations, de la sécurité, des passages de grade et des licences fédérales. <b>Base légale :</b> exécution de cet accord ; consentement pour les données de santé et les images ; obligations légales.
+285|L'adhésion peut être suspendue en cas de blessure ou de maladie (avec certificat médical) ou de vacances prolongées, en accord avec le club.
+286|Le club peut mettre fin à l'adhésion après des manquements graves ou répétés au code de conduite, après en avoir parlé avec la famille. Les cotisations des mois complets non utilisés seront remboursées.
+287|Je suis le parent ou le tuteur légal de l'élève nommé ci-dessus. J'ai lu et j'accepte cet accord, et les informations fournies sont exactes.
+288|Signature du parent / tuteur
+289|« Je m'entraînerai avec respect, effort et contrôle. »
+290|Infos santé transmises aux instructeurs
+291|Copie remise à la famille
+292|Autorisation photo et vidéo
+293|Nous aimons partager les progrès de nos élèves, mais uniquement avec votre autorisation. Choisissez oui ou non pour chaque utilisation. Vous pouvez changer d'avis à tout moment en prévenant le club.
+294|Utilisation des images
+295|Chaque utilisation est facultative. Refuser n'a jamais d'incidence sur la place, le traitement ou les passages de grade de l'élève.
+296|J'autorise l'utilisation de photos et vidéos de l'élève pour…
+297|Le site web du club, le tableau d'affichage et les supports imprimés
+298|Les réseaux sociaux publics du club
+299|Le site web, les réseaux sociaux et les événements de la fédération EMTF
+300|La presse et les médias locaux (p. ex. un résultat de passage de grade ou de compétition)
+301|Le prénom affiché avec les images (les noms de famille ne sont jamais publiés)
+302|Notre engagement
+303|N'utiliser que des images montrant des élèves correctement vêtus et s'entraînant en sécurité.
+304|Ne jamais publier le nom complet, l'école ou le lieu de résidence d'un enfant.
+305|Retirer les images des canaux du club dans les 7 jours suivant une demande, lorsque cela dépend de nous.
+306|Demander aux familles présentes aux événements de ne pas partager les images d'autres élèves sans autorisation.
+307|<b>Protection des données :</b> {club} est responsable de ces images. La base légale est votre consentement, que vous pouvez retirer à tout moment. Les images ne sont conservées que tant qu'elles sont utilisées, et vous pouvez en demander l'accès, la rectification ou l'effacement, ou introduire une réclamation auprès de {authority}.
+308|Signature
+309|Je suis l'élève (majeur) ou son parent / tuteur légal, et je donne les autorisations cochées ci-dessus.
+310|Élève (à partir de 12 ans, en signe d'accord)
+311|Enregistré par
+312|Retiré le (le cas échéant)
+313|Fiche de signalement — protection de l'enfance
+314|Confidentiel. À remplir dès que possible, idéalement le jour même, et à remettre uniquement au référent protection de l'enfance du club. Notez les faits et les mots exacts de l'enfant. N'enquêtez pas, ne posez pas d'autres questions à l'enfant et ne lui promettez pas de garder un secret.
+315|Sécurité immédiate
+316|Si un enfant est en danger immédiat, appelez le 112 maintenant. Remplissez cette fiche ensuite.
+317|L'enfant
+318|Nom complet de l'enfant
+319|Date de naissance ou âge
+320|Cours / groupe
+321|Parent(s) / tuteur(s)
+322|La préoccupation
+323|Où
+324|Quelque chose que l'enfant a dit
+325|Quelque chose d'observé (p. ex. une blessure ou un comportement)
+326|Une information venant d'une autre personne
+327|Un changement dans le comportement ou l'apparence de l'enfant
+328|Ce qui s'est passé — uniquement les faits, dans l'ordre
+329|Les mots exacts de l'enfant (et ce que vous avez répondu)
+330|Toute blessure visible : où sur le corps et à quoi elle ressemblait
+331|Ne photographiez pas les blessures et ne demandez pas à l'enfant de les montrer. Décrivez uniquement ce que vous avez vu.
+332|Personne qui signale
+333|Rôle au sein du club
+334|Date et heure de rédaction
+335|Transmis au référent protection de l'enfance (nom, date et heure)
+336|Signalé à (services de protection de l'enfance, police) et n° de référence
+337|Le référent a-t-il…
+338|Informé le responsable protection de l'enfance de la fédération ?
+339|Informé les parents (uniquement si cela n'expose pas l'enfant à un risque plus grand) ?
+340|Décision et suites à donner (référent)
+341|Date de révision
+342|Clôturé le
+343|<b>Confidentiel.</b> {club} conserve cette fiche sous clé, séparément des dossiers des membres, afin de protéger l'enfant. Elle n'est communiquée qu'au responsable protection de l'enfance de la fédération et aux autorités si nécessaire, et conservée aussi longtemps que la loi l'exige.
+344|Mandat de prélèvement SEPA
+345|Ce mandat permet au club de prélever les cotisations sur votre compte bancaire. Veuillez le remplir en majuscules et le signer ci-dessous. Saisissez l'IBAN avec soin : un chiffre erroné entraînera le rejet du prélèvement.
+346|Créancier (le club)
+347|Nom du créancier
+348|Identifiant créancier SEPA (ICS)
+349|Adresse
+350|Référence unique du mandat (remplie par le club)
+351|Débiteur (titulaire du compte)
+352|Nom complet du titulaire du compte
+353|Code postal et ville
+354|Pays
+355|BIC / SWIFT (si connu)
+356|Élève(s) concerné(s)
+357|Type de paiement
+358|Paiement récurrent (cotisations mensuelles)
+359|Paiement ponctuel
+360|Conditions du mandat
+361|En signant ce formulaire de mandat, vous autorisez (A) {club} à envoyer des instructions à votre banque pour débiter votre compte, et (B) votre banque à débiter votre compte conformément aux instructions de {club}.
+362|Vous bénéficiez du droit d'être remboursé par votre banque selon les conditions décrites dans la convention que vous avez passée avec elle. Une demande de remboursement doit être présentée dans les 8 semaines suivant la date de débit de votre compte.
+363|Vos droits sont expliqués dans un document que vous pouvez obtenir auprès de votre banque. Le club vous informera du montant et de la date de chaque prélèvement au moins 2 jours à l'avance.
+364|Signature du débiteur (titulaire du compte)
+365|Lieu de signature
+366|Tous les champs doivent être remplis. Veuillez remettre ce mandat au club ; il est conservé par le club et n'est pas envoyé à votre banque.
+367|Date du premier prélèvement
+368|Montant mensuel (€)
+369|IBAN vérifié
+370|Enregistré dans le système de paiement
+371|Pré-notification envoyée
+372|Autorisation pour un cours d'essai
+373|Bienvenue — nous sommes ravis de vous accueillir. Veuillez remplir ce court formulaire avant votre premier cours afin que nous puissions assurer votre sécurité sur le tatami.
+374|Participant
+375|Date du cours d'essai
+376|Contact d'urgence (nom et téléphone)
+377|Comment nous avez-vous connus ?
+378|Bilan de santé rapide
+379|Le participant a-t-il…
+380|Un problème cardiaque, respiratoire, des crises convulsives ou du diabète ?
+381|Une blessure actuelle, une opération ou un traumatisme crânien récents ?
+382|Une allergie grave ou un traitement d'urgence ?
+383|Des besoins particuliers que l'instructeur devrait connaître ?
+384|Si oui, veuillez préciser brièvement
+385|Sécurité et consentement
+386|Le Tang Soo Do est une activité physique de contact. Les cours d'essai sont adaptés aux débutants et entièrement encadrés, mais des chocs, des bleus et des entorses peuvent survenir.
+387|Je confirme que le participant est apte à participer et suivra les consignes de l'instructeur. Rien dans ce formulaire ne limite la responsabilité légale du club pour sa propre négligence.
+388|J'accepte que les premiers secours soient prodigués et que le club appelle le 112 en cas d'urgence.
+389|Je comprends qu'aucune photo ni vidéo du participant ne sera partagée sans autorisation écrite distincte.
+390|Facultatif : le club peut me contacter au sujet d'une inscription après l'essai.
+391|<b>Protection des données :</b> {club} utilise ces informations uniquement pour assurer le cours d'essai en sécurité et, si vous avez coché la case ci-dessus, pour vous recontacter. Elles sont supprimées après 6 mois si vous ne vous inscrivez pas. Vous pouvez demander l'accès, la rectification ou l'effacement à tout moment, ou introduire une réclamation auprès de {authority}.
+392|Participant (majeur) ou parent / tuteur
+393|Instructeur
+394|Présent
+395|Adhésion proposée
+396|Inscrit
+397|Remarques de l'instructeur
+398|Date de relance
+399|Série Clubs
+400|Logo du club
+401|Nom du club
+402|Adresse du club
+403|Programme
+404|Cotisation mensuelle
+405|Choix
+406|Oui
+407|Non
+408|IBAN (numéro de compte)
+409|Questions du club
+410|le club indiqué ci-dessus
+411|l'autorité de protection des données de votre pays

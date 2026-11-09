@@ -211,140 +211,202 @@
 210|Kierownik klubu / główny instruktor
 211|Rodzic / opiekun (zapoznał(a) się)
 212|<b>Poufne.</b> {club} przechowuje ten raport w bezpieczny sposób na potrzeby zarządzania bezpieczeństwem i roszczeniami ubezpieczeniowymi, udostępnia go tylko osobom, które go potrzebują (ubezpieczyciel, federacja, służby ratunkowe), i przechowuje tak długo, jak wymaga tego prawo.
-213|Umowa rodzica i ucznia
-214|Ta umowa opisuje, jak razem trenujemy, do czego zobowiązuje się klub i czego oczekujemy od uczniów i rodzin. Prosimy przeczytać ją razem z dzieckiem, wypełnić wszystkie sekcje i podpisać na ostatniej stronie.
-215|Dane ucznia
-216|Szkoła
-217|Dane rodziców / opiekunów
-218|Opiekun 1 — imię i nazwisko
-219|Opiekun 2 — imię i nazwisko
-220|Każde orzeczenie sądu lub ustalenie dotyczące tego, kto może odbierać dziecko lub otrzymywać o nim informacje, należy przekazać klubowi na piśmie.
-221|Prosimy podać inne osoby niż wymienieni powyżej opiekunowie.
-222|Informacje o zdrowiu
-223|Udostępniane wyłącznie instruktorom, którzy potrzebują tych informacji dla bezpieczeństwa dziecka. Prosimy o natychmiastową informację o każdej zmianie.
-224|Choroby (np. astma, padaczka, cukrzyca)
-225|Urazy lub ograniczenia fizyczne
-226|Szczególne potrzeby, o których powinniśmy wiedzieć, aby wspierać dziecko
-227|Nr PESEL / karty ubezpieczenia (opcjonalnie)
-228|Osoby upoważnione do odbioru
-229|Dzieci są wydawane wyłącznie opiekunowi lub osobie tu wskazanej. Możemy poprosić o dokument tożsamości.
-230|(Uczniowie od 12 lat) Moje dziecko może samodzielnie opuścić klub po zajęciach.
-231|Składki płatne są miesięcznie z góry poleceniem zapłaty SEPA. Wraz z tą umową podpisuje się odrębne upoważnienie SEPA.
-232|Nasi uczniowie
-233|Trenują z kontrolą i szanują bezpieczeństwo każdego partnera.
-234|Nigdy nie używają technik poza treningiem, chyba że w obronie siebie lub innych.
-235|Mówią życzliwie — żadnego nękania, w klubie i poza nim, także w internecie.
-236|Nasze rodziny
-237|Przyprowadzają i odbierają dzieci punktualnie i są dostępne pod telefonem w czasie zajęć.
-238|Pozwalają instruktorom prowadzić zajęcia — pytania mile widziane po treningu.
-239|Dopingują z widowni wszystkich uczniów, nie tylko swoje dziecko.
-240|Informują nas o wszystkim, co może wpływać na trening lub samopoczucie dziecka.
-241|Nasz klub
-242|Wykwalifikowani instruktorzy z aktualnym zaświadczeniem o niekaralności.
-243|Bezpieczne zajęcia pod nadzorem, z odpowiednią liczbą opiekunów i pierwszą pomocą.
-244|Jasna informacja o postępach oraz uczciwe, przejrzyste egzaminy.
-245|Wyznaczona osoba ds. ochrony dzieci, z którą można porozmawiać w zaufaniu.
-246|Klub posiada ubezpieczenie OC, a uczniowie są objęci ubezpieczeniem NNW w ramach licencji federacyjnej. Szczegóły dostępne na życzenie.
-247|Potwierdzam, że moje dziecko może uczestniczyć w zajęciach, i poinformuję klub o każdej zmianie stanu jego zdrowia. Nic w tej umowie nie ogranicza odpowiedzialności prawnej klubu za jego własne zaniedbania.
-248|Każde wykorzystanie jest dobrowolne, a zgodę można w każdej chwili wycofać. Odmowa nigdy nie wpływa na miejsce ani traktowanie dziecka.
-249|Wyrażam zgodę na wykorzystanie wizerunku mojego dziecka do…
-250|Publicznych mediów społecznościowych (pełne imiona i nazwiska nigdy nie są publikowane)
-251|<b>Administrator:</b> {club}. <b>Cel:</b> obsługa członkostwa, składek, bezpieczeństwa, egzaminów i licencji federacyjnych. <b>Podstawa prawna:</b> wykonanie tej umowy; zgoda w zakresie danych o zdrowiu i wizerunku; obowiązki prawne.
-252|Członkostwo można zawiesić z powodu urazu lub choroby (z zaświadczeniem lekarskim) albo dłuższego wyjazdu, w porozumieniu z klubem.
-253|Klub może zakończyć członkostwo po poważnym lub powtarzającym się naruszeniu kodeksu postępowania, po rozmowie z rodziną. Składki za pełne niewykorzystane miesiące zostaną zwrócone.
-254|Jestem rodzicem lub opiekunem prawnym wymienionego powyżej ucznia. Zapoznałem / zapoznałam się z tą umową i akceptuję ją, a podane informacje są prawdziwe.
-255|Podpis rodzica / opiekuna
-256|„Będę trenować z szacunkiem, zaangażowaniem i kontrolą.”
-257|Informacje zdrowotne przekazane instruktorom
-258|Kopia przekazana rodzinie
-259|Zgoda na zdjęcia i filmy
-260|Chętnie dzielimy się postępami naszych uczniów, ale tylko za Państwa zgodą. Proszę wybrać tak lub nie dla każdego zastosowania. Decyzję można zmienić w każdej chwili, informując klub.
-261|Imię i nazwisko ucznia
-262|Telefon lub e-mail
-263|Jak mogą być wykorzystywane zdjęcia
-264|Każde wykorzystanie jest dobrowolne. Odmowa nigdy nie wpływa na miejsce, traktowanie ani egzaminy ucznia.
-265|Wyrażam zgodę na wykorzystanie zdjęć i filmów z udziałem ucznia do…
-266|Strony internetowej klubu, tablicy ogłoszeń i materiałów drukowanych
-267|Publicznych mediów społecznościowych klubu
-268|Strony internetowej, mediów społecznościowych i wydarzeń federacji EMTF
-269|Lokalnej prasy i mediów (np. wynik egzaminu lub zawodów)
-270|Imienia przy zdjęciach (nazwiska nigdy nie są publikowane)
-271|Nasza obietnica
-272|Używać wyłącznie zdjęć, na których uczniowie są odpowiednio ubrani i bezpiecznie trenują.
-273|Nigdy nie publikować pełnego imienia i nazwiska, szkoły ani miejsca zamieszkania dziecka.
-274|Usuwać zdjęcia z kanałów klubu w ciągu 7 dni od prośby, o ile to od nas zależy.
-275|Prosić rodziny obecne na wydarzeniach, by nie udostępniały zdjęć innych uczniów bez zgody.
-276|<b>Ochrona danych:</b> {club} odpowiada za te zdjęcia. Podstawą prawną jest Państwa zgoda, którą można w każdej chwili wycofać. Zdjęcia przechowujemy tylko tak długo, jak są wykorzystywane; można żądać dostępu, sprostowania lub usunięcia albo wnieść skargę do {authority}.
-277|Podpis
-278|Jestem uczniem (pełnoletnim) lub jego rodzicem / opiekunem prawnym i udzielam zgód zaznaczonych powyżej.
-279|Uczeń (od 12 lat, na znak zgody)
-280|Zapisał(a)
-281|Wycofano dnia (jeśli dotyczy)
-282|Upoważnienie do polecenia zapłaty SEPA
-283|To upoważnienie pozwala klubowi pobierać składki z Państwa rachunku bankowego. Prosimy wypełnić drukowanymi literami i podpisać poniżej. Numer IBAN należy wpisać starannie: błędna cyfra spowoduje zwrot płatności.
-284|Odbiorca (klub)
-285|Nazwa odbiorcy
-286|Identyfikator odbiorcy
-287|Adres
-288|Numer referencyjny upoważnienia (wypełnia klub)
-289|Płatnik (posiadacz rachunku)
-290|Imię i nazwisko posiadacza rachunku
-291|Kod pocztowy i miejscowość
-292|Kraj
-293|BIC / SWIFT (jeśli znany)
-294|Uczeń / uczniowie, których dotyczy
-295|Rodzaj płatności
-296|Płatność cykliczna (składki miesięczne)
-297|Płatność jednorazowa
-298|Warunki upoważnienia
-299|Podpisując niniejsze upoważnienie, upoważniają Państwo (A) {club} do wysyłania instrukcji do Państwa banku w celu obciążenia rachunku oraz (B) bank do obciążania rachunku zgodnie z instrukcjami {club}.
-300|W ramach swoich praw mogą Państwo uzyskać zwrot środków od banku na warunkach umowy z bankiem. Wniosek o zwrot należy złożyć w ciągu 8 tygodni od daty obciążenia rachunku.
-301|Informacje o Państwa prawach można uzyskać w banku. Klub poinformuje o kwocie i dacie każdego pobrania co najmniej 2 dni wcześniej.
-302|Podpis płatnika (posiadacza rachunku)
-303|Miejsce podpisania
-304|Wszystkie pola są obowiązkowe. Prosimy oddać to upoważnienie w klubie; pozostaje ono w klubie i nie jest wysyłane do banku.
-305|Data pierwszego pobrania
-306|Kwota miesięczna (€)
-307|IBAN sprawdzony
-308|Wprowadzono do systemu płatności
-309|Wysłano powiadomienie przed pobraniem
-310|Zgoda na zajęcia próbne
-311|Witamy — cieszymy się, że jesteś z nami. Prosimy wypełnić ten krótki formularz przed pierwszymi zajęciami, abyśmy mogli zadbać o bezpieczeństwo na macie.
-312|Uczestnik
-313|Data zajęć próbnych
-314|Kontakt alarmowy (imię i telefon)
-315|Skąd dowiedzieli się Państwo o nas?
-316|Szybka kontrola zdrowia
-317|Czy uczestnik ma…
-318|Chorobę serca, układu oddechowego, napady drgawkowe lub cukrzycę?
-319|Obecny uraz, niedawną operację lub uraz głowy?
-320|Poważną alergię lub leki ratunkowe?
-321|Szczególne potrzeby, o których powinien wiedzieć instruktor?
-322|Jeśli tak, prosimy krótko opisać
-323|Bezpieczeństwo i zgoda
-324|Tang Soo Do to aktywność fizyczna z kontaktem. Zajęcia próbne są dostosowane do początkujących i w pełni nadzorowane, ale mogą zdarzyć się stłuczenia, siniaki i skręcenia.
-325|Potwierdzam, że uczestnik może brać udział w zajęciach i będzie stosować się do poleceń instruktora. Nic w tym formularzu nie ogranicza odpowiedzialności prawnej klubu za jego własne zaniedbania.
-326|Wyrażam zgodę na udzielenie pierwszej pomocy i na wezwanie przez klub numeru 112 w nagłym wypadku.
-327|Rozumiem, że bez odrębnej pisemnej zgody nie będą udostępniane żadne zdjęcia ani filmy z udziałem uczestnika.
-328|Opcjonalnie: klub może skontaktować się ze mną w sprawie zapisu po zajęciach próbnych.
-329|<b>Ochrona danych:</b> {club} wykorzystuje te dane wyłącznie do bezpiecznego przeprowadzenia zajęć próbnych oraz — jeśli zaznaczono pole powyżej — do kontaktu. Dane są usuwane po 6 miesiącach, jeśli nie dojdzie do zapisu. W każdej chwili można żądać dostępu, sprostowania lub usunięcia danych albo wnieść skargę do {authority}.
-330|Uczestnik (pełnoletni) lub rodzic / opiekun
-331|Instruktor
-332|Obecny
-333|Zaproponowano członkostwo
-334|Zapisał(a) się
-335|Uwagi instruktora
-336|Data kontaktu
-337|Seria klubowa
-338|Logo klubu
-339|Nazwa klubu
-340|Adres klubu
-341|Program
-342|Składka miesięczna
-343|Wybór
-344|Tak
-345|Nie
-346|IBAN (numer rachunku)
-347|Pytania klubu
-348|klub wskazany powyżej
-349|organu ochrony danych w Państwa kraju
+213|Zawieszenie lub rezygnacja z członkostwa
+214|Ten formularz służy do zawieszenia, rezygnacji lub zmiany członkostwa. Prosimy złożyć go w klubie z zachowaniem okresu wypowiedzenia z umowy członkowskiej. Wszystko potwierdzimy na piśmie.
+215|Członek
+216|Imię i nazwisko ucznia
+217|Obecny program
+218|Telefon lub e-mail
+219|Wniosek
+220|Zawieszenie członkostwa
+221|Rezygnacja z członkostwa
+222|Zmiana programu
+223|Zawieszenie
+224|Zawieszenie od
+225|Powrót dnia
+226|Uraz lub choroba (w załączeniu zaświadczenie lekarskie)
+227|Urlop lub wyjazd
+228|Inny powód
+229|Rezygnacja
+230|Ostatni dzień treningów
+231|Powód (opcjonalnie)
+232|Czy mogliśmy coś zrobić lepiej? (opcjonalnie)
+233|Zmiana programu
+234|Zmiana od (data)
+235|Warto wiedzieć
+236|Polecenia zapłaty są realizowane do końca okresu wypowiedzenia z umowy członkowskiej. Klub potwierdzi na piśmie, kiedy zostanie pobrana ostatnia płatność.
+237|Zawieszenie uzgadnia się z klubem i wstrzymuje ono składki w uzgodnionym terminie. Składki wznawiają się automatycznie w dniu powrotu, chyba że poinformują nas Państwo inaczej.
+238|Po zakończeniu członkostwa klub przestaje korzystać z Państwa upoważnienia SEPA. Nie trzeba kontaktować się z bankiem.
+239|Członek (pełnoletni) lub rodzic / opiekun
+240|Koniec okresu wypowiedzenia
+241|Data ostatniego pobrania
+242|Składki wznowione od
+243|Potwierdzono na piśmie
+244|Zaktualizowano system płatności
+245|Zaktualizowano licencję federacyjną
+246|Umowa rodzica i ucznia
+247|Ta umowa opisuje, jak razem trenujemy, do czego zobowiązuje się klub i czego oczekujemy od uczniów i rodzin. Prosimy przeczytać ją razem z dzieckiem, wypełnić wszystkie sekcje i podpisać na ostatniej stronie.
+248|Dane ucznia
+249|Szkoła
+250|Dane rodziców / opiekunów
+251|Opiekun 1 — imię i nazwisko
+252|Opiekun 2 — imię i nazwisko
+253|Każde orzeczenie sądu lub ustalenie dotyczące tego, kto może odbierać dziecko lub otrzymywać o nim informacje, należy przekazać klubowi na piśmie.
+254|Prosimy podać inne osoby niż wymienieni powyżej opiekunowie.
+255|Informacje o zdrowiu
+256|Udostępniane wyłącznie instruktorom, którzy potrzebują tych informacji dla bezpieczeństwa dziecka. Prosimy o natychmiastową informację o każdej zmianie.
+257|Choroby (np. astma, padaczka, cukrzyca)
+258|Urazy lub ograniczenia fizyczne
+259|Szczególne potrzeby, o których powinniśmy wiedzieć, aby wspierać dziecko
+260|Nr PESEL / karty ubezpieczenia (opcjonalnie)
+261|Osoby upoważnione do odbioru
+262|Dzieci są wydawane wyłącznie opiekunowi lub osobie tu wskazanej. Możemy poprosić o dokument tożsamości.
+263|(Uczniowie od 12 lat) Moje dziecko może samodzielnie opuścić klub po zajęciach.
+264|Składki płatne są miesięcznie z góry poleceniem zapłaty SEPA. Wraz z tą umową podpisuje się odrębne upoważnienie SEPA.
+265|Nasi uczniowie
+266|Trenują z kontrolą i szanują bezpieczeństwo każdego partnera.
+267|Nigdy nie używają technik poza treningiem, chyba że w obronie siebie lub innych.
+268|Mówią życzliwie — żadnego nękania, w klubie i poza nim, także w internecie.
+269|Nasze rodziny
+270|Przyprowadzają i odbierają dzieci punktualnie i są dostępne pod telefonem w czasie zajęć.
+271|Pozwalają instruktorom prowadzić zajęcia — pytania mile widziane po treningu.
+272|Dopingują z widowni wszystkich uczniów, nie tylko swoje dziecko.
+273|Informują nas o wszystkim, co może wpływać na trening lub samopoczucie dziecka.
+274|Nasz klub
+275|Wykwalifikowani instruktorzy z aktualnym zaświadczeniem o niekaralności.
+276|Bezpieczne zajęcia pod nadzorem, z odpowiednią liczbą opiekunów i pierwszą pomocą.
+277|Jasna informacja o postępach oraz uczciwe, przejrzyste egzaminy.
+278|Wyznaczona osoba ds. ochrony dzieci, z którą można porozmawiać w zaufaniu.
+279|Klub posiada ubezpieczenie OC, a uczniowie są objęci ubezpieczeniem NNW w ramach licencji federacyjnej. Szczegóły dostępne na życzenie.
+280|Potwierdzam, że moje dziecko może uczestniczyć w zajęciach, i poinformuję klub o każdej zmianie stanu jego zdrowia. Nic w tej umowie nie ogranicza odpowiedzialności prawnej klubu za jego własne zaniedbania.
+281|Każde wykorzystanie jest dobrowolne, a zgodę można w każdej chwili wycofać. Odmowa nigdy nie wpływa na miejsce ani traktowanie dziecka.
+282|Wyrażam zgodę na wykorzystanie wizerunku mojego dziecka do…
+283|Publicznych mediów społecznościowych (pełne imiona i nazwiska nigdy nie są publikowane)
+284|<b>Administrator:</b> {club}. <b>Cel:</b> obsługa członkostwa, składek, bezpieczeństwa, egzaminów i licencji federacyjnych. <b>Podstawa prawna:</b> wykonanie tej umowy; zgoda w zakresie danych o zdrowiu i wizerunku; obowiązki prawne.
+285|Członkostwo można zawiesić z powodu urazu lub choroby (z zaświadczeniem lekarskim) albo dłuższego wyjazdu, w porozumieniu z klubem.
+286|Klub może zakończyć członkostwo po poważnym lub powtarzającym się naruszeniu kodeksu postępowania, po rozmowie z rodziną. Składki za pełne niewykorzystane miesiące zostaną zwrócone.
+287|Jestem rodzicem lub opiekunem prawnym wymienionego powyżej ucznia. Zapoznałem / zapoznałam się z tą umową i akceptuję ją, a podane informacje są prawdziwe.
+288|Podpis rodzica / opiekuna
+289|„Będę trenować z szacunkiem, zaangażowaniem i kontrolą.”
+290|Informacje zdrowotne przekazane instruktorom
+291|Kopia przekazana rodzinie
+292|Zgoda na zdjęcia i filmy
+293|Chętnie dzielimy się postępami naszych uczniów, ale tylko za Państwa zgodą. Proszę wybrać tak lub nie dla każdego zastosowania. Decyzję można zmienić w każdej chwili, informując klub.
+294|Jak mogą być wykorzystywane zdjęcia
+295|Każde wykorzystanie jest dobrowolne. Odmowa nigdy nie wpływa na miejsce, traktowanie ani egzaminy ucznia.
+296|Wyrażam zgodę na wykorzystanie zdjęć i filmów z udziałem ucznia do…
+297|Strony internetowej klubu, tablicy ogłoszeń i materiałów drukowanych
+298|Publicznych mediów społecznościowych klubu
+299|Strony internetowej, mediów społecznościowych i wydarzeń federacji EMTF
+300|Lokalnej prasy i mediów (np. wynik egzaminu lub zawodów)
+301|Imienia przy zdjęciach (nazwiska nigdy nie są publikowane)
+302|Nasza obietnica
+303|Używać wyłącznie zdjęć, na których uczniowie są odpowiednio ubrani i bezpiecznie trenują.
+304|Nigdy nie publikować pełnego imienia i nazwiska, szkoły ani miejsca zamieszkania dziecka.
+305|Usuwać zdjęcia z kanałów klubu w ciągu 7 dni od prośby, o ile to od nas zależy.
+306|Prosić rodziny obecne na wydarzeniach, by nie udostępniały zdjęć innych uczniów bez zgody.
+307|<b>Ochrona danych:</b> {club} odpowiada za te zdjęcia. Podstawą prawną jest Państwa zgoda, którą można w każdej chwili wycofać. Zdjęcia przechowujemy tylko tak długo, jak są wykorzystywane; można żądać dostępu, sprostowania lub usunięcia albo wnieść skargę do {authority}.
+308|Podpis
+309|Jestem uczniem (pełnoletnim) lub jego rodzicem / opiekunem prawnym i udzielam zgód zaznaczonych powyżej.
+310|Uczeń (od 12 lat, na znak zgody)
+311|Zapisał(a)
+312|Wycofano dnia (jeśli dotyczy)
+313|Rejestr zgłoszeń dotyczących ochrony dzieci
+314|Poufne. Wypełnić jak najszybciej, najlepiej tego samego dnia, i przekazać wyłącznie osobie odpowiedzialnej za ochronę dzieci w klubie. Zapisz fakty i dosłowne słowa dziecka. Nie prowadź własnego dochodzenia, nie wypytuj dalej dziecka i nie obiecuj zachowania tajemnicy.
+315|Bezpieczeństwo w tej chwili
+316|Jeśli dziecko jest w bezpośrednim niebezpieczeństwie, natychmiast zadzwoń pod 112. Ten formularz wypełnij później.
+317|Dziecko
+318|Imię i nazwisko dziecka
+319|Data urodzenia lub wiek
+320|Grupa / zajęcia
+321|Rodzic(e) / opiekun(owie)
+322|Niepokój
+323|Gdzie
+324|Coś, co powiedziało dziecko
+325|Coś, co zauważono (np. uraz lub zachowanie)
+326|Informacja od innej osoby
+327|Zmiana w zachowaniu lub wyglądzie dziecka
+328|Co się wydarzyło — tylko fakty, po kolei
+329|Dosłowne słowa dziecka (oraz to, co Ty powiedziałeś / powiedziałaś)
+330|Widoczne obrażenia: w którym miejscu ciała i jak wyglądały
+331|Nie fotografuj obrażeń i nie proś dziecka, aby je pokazało. Opisz tylko to, co widziałeś / widziałaś.
+332|Osoba zgłaszająca
+333|Funkcja w klubie
+334|Data i godzina sporządzenia zapisu
+335|Przekazano osobie odpowiedzialnej (imię i nazwisko, data i godzina)
+336|Zgłoszono do (opieka społeczna, policja) i numer sprawy
+337|Czy osoba odpowiedzialna…
+338|Poinformowała osobę ds. ochrony dzieci w federacji?
+339|Poinformowała rodziców (tylko jeśli nie narazi to dziecka na większe ryzyko)?
+340|Decyzja i dalsze kroki (osoba odpowiedzialna)
+341|Data przeglądu
+342|Zamknięto dnia
+343|<b>Poufne.</b> {club} przechowuje ten zapis pod zamknięciem, oddzielnie od dokumentacji członków, aby chronić dziecko. Jest on udostępniany wyłącznie osobie ds. ochrony dzieci w federacji oraz, w razie potrzeby, właściwym organom i przechowywany tak długo, jak wymaga tego prawo.
+344|Upoważnienie do polecenia zapłaty SEPA
+345|To upoważnienie pozwala klubowi pobierać składki z Państwa rachunku bankowego. Prosimy wypełnić drukowanymi literami i podpisać poniżej. Numer IBAN należy wpisać starannie: błędna cyfra spowoduje zwrot płatności.
+346|Odbiorca (klub)
+347|Nazwa odbiorcy
+348|Identyfikator odbiorcy
+349|Adres
+350|Numer referencyjny upoważnienia (wypełnia klub)
+351|Płatnik (posiadacz rachunku)
+352|Imię i nazwisko posiadacza rachunku
+353|Kod pocztowy i miejscowość
+354|Kraj
+355|BIC / SWIFT (jeśli znany)
+356|Uczeń / uczniowie, których dotyczy
+357|Rodzaj płatności
+358|Płatność cykliczna (składki miesięczne)
+359|Płatność jednorazowa
+360|Warunki upoważnienia
+361|Podpisując niniejsze upoważnienie, upoważniają Państwo (A) {club} do wysyłania instrukcji do Państwa banku w celu obciążenia rachunku oraz (B) bank do obciążania rachunku zgodnie z instrukcjami {club}.
+362|W ramach swoich praw mogą Państwo uzyskać zwrot środków od banku na warunkach umowy z bankiem. Wniosek o zwrot należy złożyć w ciągu 8 tygodni od daty obciążenia rachunku.
+363|Informacje o Państwa prawach można uzyskać w banku. Klub poinformuje o kwocie i dacie każdego pobrania co najmniej 2 dni wcześniej.
+364|Podpis płatnika (posiadacza rachunku)
+365|Miejsce podpisania
+366|Wszystkie pola są obowiązkowe. Prosimy oddać to upoważnienie w klubie; pozostaje ono w klubie i nie jest wysyłane do banku.
+367|Data pierwszego pobrania
+368|Kwota miesięczna (€)
+369|IBAN sprawdzony
+370|Wprowadzono do systemu płatności
+371|Wysłano powiadomienie przed pobraniem
+372|Zgoda na zajęcia próbne
+373|Witamy — cieszymy się, że jesteś z nami. Prosimy wypełnić ten krótki formularz przed pierwszymi zajęciami, abyśmy mogli zadbać o bezpieczeństwo na macie.
+374|Uczestnik
+375|Data zajęć próbnych
+376|Kontakt alarmowy (imię i telefon)
+377|Skąd dowiedzieli się Państwo o nas?
+378|Szybka kontrola zdrowia
+379|Czy uczestnik ma…
+380|Chorobę serca, układu oddechowego, napady drgawkowe lub cukrzycę?
+381|Obecny uraz, niedawną operację lub uraz głowy?
+382|Poważną alergię lub leki ratunkowe?
+383|Szczególne potrzeby, o których powinien wiedzieć instruktor?
+384|Jeśli tak, prosimy krótko opisać
+385|Bezpieczeństwo i zgoda
+386|Tang Soo Do to aktywność fizyczna z kontaktem. Zajęcia próbne są dostosowane do początkujących i w pełni nadzorowane, ale mogą zdarzyć się stłuczenia, siniaki i skręcenia.
+387|Potwierdzam, że uczestnik może brać udział w zajęciach i będzie stosować się do poleceń instruktora. Nic w tym formularzu nie ogranicza odpowiedzialności prawnej klubu za jego własne zaniedbania.
+388|Wyrażam zgodę na udzielenie pierwszej pomocy i na wezwanie przez klub numeru 112 w nagłym wypadku.
+389|Rozumiem, że bez odrębnej pisemnej zgody nie będą udostępniane żadne zdjęcia ani filmy z udziałem uczestnika.
+390|Opcjonalnie: klub może skontaktować się ze mną w sprawie zapisu po zajęciach próbnych.
+391|<b>Ochrona danych:</b> {club} wykorzystuje te dane wyłącznie do bezpiecznego przeprowadzenia zajęć próbnych oraz — jeśli zaznaczono pole powyżej — do kontaktu. Dane są usuwane po 6 miesiącach, jeśli nie dojdzie do zapisu. W każdej chwili można żądać dostępu, sprostowania lub usunięcia danych albo wnieść skargę do {authority}.
+392|Uczestnik (pełnoletni) lub rodzic / opiekun
+393|Instruktor
+394|Obecny
+395|Zaproponowano członkostwo
+396|Zapisał(a) się
+397|Uwagi instruktora
+398|Data kontaktu
+399|Seria klubowa
+400|Logo klubu
+401|Nazwa klubu
+402|Adres klubu
+403|Program
+404|Składka miesięczna
+405|Wybór
+406|Tak
+407|Nie
+408|IBAN (numer rachunku)
+409|Pytania klubu
+410|klub wskazany powyżej
+411|organu ochrony danych w Państwa kraju

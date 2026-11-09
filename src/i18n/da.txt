@@ -211,140 +211,202 @@
 210|Klubleder / cheftræner
 211|Forælder / værge (set)
 212|<b>Fortroligt.</b> {club} opbevarer denne rapport sikkert til håndtering af sikkerhed og forsikringssager, deler den kun med dem, der har brug for den (forsikring, forbund, redningstjenester), og opbevarer den så længe loven kræver.
-213|Aftale for forældre og elev
-214|Denne aftale beskriver, hvordan vi træner sammen, hvad klubben forpligter sig til, og hvad vi beder elever og familier om. Læs den sammen med dit barn, udfyld alle afsnit og skriv under på sidste side.
-215|Elevens oplysninger
-216|Skole
-217|Oplysninger om forældre / værger
-218|Værge 1 — navn
-219|Værge 2 — navn
-220|Enhver retsafgørelse eller aftale om, hvem der må hente barnet eller få oplysninger om det, skal meddeles klubben skriftligt.
-221|Angiv venligst andre kontakter end værgerne ovenfor.
-222|Helbredsoplysninger
-223|Deles kun med de instruktører, der har brug for dem for dit barns sikkerhed. Giv os straks besked, hvis noget ændrer sig.
-224|Sygdomme (f.eks. astma, epilepsi, diabetes)
-225|Skader eller fysiske begrænsninger
-226|Særlige behov, vi bør kende for at støtte dit barn
-227|Sundhedskortnr. / CPR-nr. (valgfrit)
-228|Personer der må hente barnet
-229|Børn udleveres kun til en værge eller en person, der er nævnt her. Vi kan bede om legitimation.
-230|(Elever på 12 år og derover) Mit barn må gå alene fra klubben efter træning.
-231|Kontingentet betales månedligt forud via SEPA-direkte debitering. En separat SEPA-fuldmagt underskrives sammen med denne aftale.
-232|Vores elever
-233|Træner med kontrol og respekterer hver partners sikkerhed.
-234|Bruger aldrig teknikker uden for træningen, undtagen for at beskytte sig selv eller andre mod skade.
-235|Taler pænt — ingen mobning, i eller uden for klubben, heller ikke online.
-236|Vores familier
-237|Afleverer og henter til tiden og kan kontaktes under træningen.
-238|Lader instruktørerne lede træningen — spørgsmål er velkomne bagefter.
-239|Hepper på alle elever, ikke kun deres egne, fra tilskuerområdet.
-240|Fortæller os om alt, der kan påvirke barnets træning eller trivsel.
-241|Vores klub
-242|Kvalificerede instruktører med gyldig børneattest.
-243|Sikre træninger under tilsyn med passende normering og førstehjælp.
-244|Klar feedback på fremskridt og fair, gennemsigtige gradueringer.
-245|En udpeget børneansvarlig, som du kan tale fortroligt med.
-246|Klubben har en ansvarsforsikring, og eleverne er dækket af en sportsulykkesforsikring gennem deres forbundslicens. Detaljer fås på forespørgsel.
-247|Jeg bekræfter, at mit barn er i stand til at deltage, og jeg informerer klubben om enhver ændring i barnets helbred. Intet i denne aftale begrænser klubbens juridiske ansvar for egen uagtsomhed.
-248|Hver anvendelse er frivillig og kan til enhver tid trækkes tilbage. Et nej påvirker aldrig dit barns plads eller behandling.
-249|Jeg giver samtykke til, at billeder af mit barn bruges til…
-250|Offentlige sociale medier (fulde navne offentliggøres aldrig)
-251|<b>Dataansvarlig:</b> {club}. <b>Formål:</b> administration af medlemskab, kontingent, sikkerhed, gradueringer og forbundslicenser. <b>Retsgrundlag:</b> opfyldelse af denne aftale; samtykke til helbredsoplysninger og billeder; retlige forpligtelser.
-252|Medlemskabet kan sættes på pause ved skade eller sygdom (med lægeerklæring) eller ved længere ferie efter aftale med klubben.
-253|Klubben kan afslutte medlemskabet efter alvorlige eller gentagne brud på adfærdskodekset, efter at have talt med familien. Kontingent for hele måneder uden træning refunderes.
-254|Jeg er forælder eller værge for ovennævnte elev. Jeg har læst og accepterer denne aftale, og de oplysninger, jeg har givet, er korrekte.
-255|Forælders / værges underskrift
-256|„Jeg træner med respekt, indsats og kontrol.“
-257|Helbredsoplysninger delt med instruktører
-258|Kopi givet til familien
-259|Samtykke til foto og video
-260|Vi deler gerne vores elevers fremskridt, men kun med din tilladelse. Vælg ja eller nej for hver anvendelse. Du kan til enhver tid ombestemme dig ved at give klubben besked.
-261|Elevens fulde navn
-262|Telefon eller e-mail
-263|Hvordan billeder må bruges
-264|Hver anvendelse er frivillig. Et nej påvirker aldrig elevens plads, behandling eller gradueringer.
-265|Jeg giver samtykke til, at fotos og video af eleven bruges til…
-266|Klubbens hjemmeside, opslagstavle og tryksager
-267|Klubbens offentlige sociale medier
-268|EMTF-forbundets hjemmeside, sociale medier og arrangementer
-269|Lokal presse og medier (f.eks. et gradueringsresultat eller stævneresultat)
-270|Fornavn vist sammen med billeder (efternavne offentliggøres aldrig)
-271|Vores løfte
-272|Kun bruge billeder, hvor eleverne er passende påklædt og træner sikkert.
-273|Aldrig offentliggøre et barns fulde navn, skole eller bopæl.
-274|Fjerne billeder fra klubbens kanaler inden 7 dage efter en anmodning, i det omfang vi har kontrol over det.
-275|Bede familier ved arrangementer om ikke at dele billeder af andre elever uden tilladelse.
-276|<b>Databeskyttelse:</b> {club} er ansvarlig for disse billeder. Retsgrundlaget er dit samtykke, som du til enhver tid kan trække tilbage. Billeder opbevares kun, så længe de bruges, og du kan bede om indsigt, rettelse eller sletning eller klage til {authority}.
-277|Underskrift
-278|Jeg er eleven (over 18) eller dennes forælder / værge og giver de samtykker, der er afkrydset ovenfor.
-279|Elev (fra 12 år, som tegn på enighed)
-280|Registreret af
-281|Tilbagekaldt den (hvis relevant)
-282|SEPA-fuldmagt til direkte debitering
-283|Denne fuldmagt giver klubben lov til at trække kontingentet fra din bankkonto. Udfyld den med blokbogstaver og skriv under nedenfor. Udfyld IBAN omhyggeligt: et forkert ciffer vil få betalingen afvist.
-284|Kreditor (klubben)
-285|Kreditors navn
-286|Kreditor-ID
-287|Adresse
-288|Fuldmagtsreference (udfyldes af klubben)
-289|Debitor (kontohaver)
-290|Kontohaverens fulde navn
-291|Postnummer og by
-292|Land
-293|BIC / SWIFT (hvis kendt)
-294|Elev(er) som dette dækker
-295|Betalingstype
-296|Tilbagevendende betaling (månedligt kontingent)
-297|Engangsbetaling
-298|Fuldmagtens vilkår
-299|Ved at underskrive denne fuldmagt giver du (A) {club} tilladelse til at sende instrukser til din bank om at debitere din konto og (B) din bank tilladelse til at debitere din konto i overensstemmelse med instrukserne fra {club}.
-300|Som en del af dine rettigheder kan du få tilbagebetaling fra din bank i henhold til vilkårene i din aftale med banken. Krav om tilbagebetaling skal fremsættes inden 8 uger fra den dato, hvor din konto blev debiteret.
-301|Dine rettigheder er forklaret i en erklæring, som du kan få i din bank. Klubben meddeler dig beløb og dato for hver opkrævning mindst 2 dage i forvejen.
-302|Debitors underskrift (kontohaver)
-303|Sted for underskrift
-304|Alle felter skal udfyldes. Aflever denne fuldmagt til klubben; den opbevares af klubben og sendes ikke til din bank.
-305|Dato for første opkrævning
-306|Månedligt beløb (€)
-307|IBAN kontrolleret
-308|Oprettet i betalingssystemet
-309|Forhåndsmeddelelse sendt
-310|Samtykke til prøvetræning
-311|Velkommen — dejligt at du er her. Udfyld venligst denne korte formular før din første træning, så vi kan holde dig sikker på måtten.
-312|Deltager
-313|Dato for prøvetræning
-314|Nødkontakt (navn og telefon)
-315|Hvordan hørte du om os?
-316|Hurtigt helbredstjek
-317|Har deltageren…
-318|En hjerte-, lunge- eller krampesygdom eller diabetes?
-319|En aktuel skade eller en nylig operation eller hovedskade?
-320|En alvorlig allergi eller nødmedicin?
-321|Særlige behov, som instruktøren bør kende til?
-322|Hvis ja, så giv en kort beskrivelse
-323|Sikkerhed og samtykke
-324|Tang Soo Do er en fysisk kontaktsport. Prøvetræninger er tilpasset begyndere og foregår under fuldt tilsyn, men stød, blå mærker og forstuvninger kan forekomme.
-325|Jeg bekræfter, at deltageren er i stand til at deltage og vil følge instruktørens anvisninger. Intet i denne formular begrænser klubbens juridiske ansvar for egen uagtsomhed.
-326|Jeg giver samtykke til, at der ydes førstehjælp, og at klubben ringer 112 i en nødsituation.
-327|Jeg forstår, at der ikke deles fotos eller video af deltageren uden særskilt skriftligt samtykke.
-328|Valgfrit: Klubben må kontakte mig om medlemskab efter prøvetræningen.
-329|<b>Databeskyttelse:</b> {club} bruger kun disse oplysninger til at gennemføre prøvetræningen sikkert og, hvis du har sat kryds ovenfor, til at følge op. De slettes efter 6 måneder, hvis du ikke melder dig ind. Du kan til enhver tid bede om indsigt, rettelse eller sletning eller klage til {authority}.
-330|Deltager (over 18) eller forælder / værge
-331|Instruktør
-332|Deltog
-333|Medlemskab tilbudt
-334|Meldt ind
-335|Instruktørens noter
-336|Opfølgningsdato
-337|Klubserie
-338|Klublogo
-339|Klubbens navn
-340|Klubbens adresse
-341|Program
-342|Månedligt kontingent
-343|Vælg
-344|Ja
-345|Nej
-346|IBAN (kontonummer)
-347|Klubbens spørgsmål
-348|ovennævnte klub
-349|datatilsynsmyndigheden i dit land
+213|Pause eller udmeldelse af medlemskab
+214|Brug denne formular til at sætte et medlemskab på pause, opsige det eller ændre det. Aflever den til klubben inden for opsigelsesvarslet i din medlemsaftale. Vi bekræfter alt skriftligt.
+215|Medlem
+216|Elevens fulde navn
+217|Nuværende program
+218|Telefon eller e-mail
+219|Din anmodning
+220|Sæt mit medlemskab på pause
+221|Opsig mit medlemskab
+222|Skift program
+223|Pause
+224|Pause fra
+225|Tilbage den
+226|Skade eller sygdom (lægeerklæring vedlagt)
+227|Ferie eller rejse
+228|Anden grund
+229|Udmeldelse
+230|Sidste træningsdag
+231|Grund (valgfrit)
+232|Er der noget, vi kunne have gjort bedre? (valgfrit)
+233|Skift af program
+234|Skift fra (dato)
+235|Godt at vide
+236|Betalingerne fortsætter til udløbet af opsigelsesvarslet i din medlemsaftale. Klubben bekræfter skriftligt, hvornår den sidste betaling trækkes.
+237|En pause aftales med klubben og stopper kontingentet i de aftalte datoer. Kontingentet starter automatisk igen på tilbagevendingsdatoen, medmindre du giver os anden besked.
+238|Når et medlemskab ophører, holder klubben op med at bruge din SEPA-fuldmagt. Du behøver ikke kontakte din bank.
+239|Medlem (over 18) eller forælder / værge
+240|Opsigelsesvarsel udløber
+241|Dato for sidste opkrævning
+242|Kontingent starter igen den
+243|Bekræftet skriftligt
+244|Betalingssystem opdateret
+245|Forbundslicens opdateret
+246|Aftale for forældre og elev
+247|Denne aftale beskriver, hvordan vi træner sammen, hvad klubben forpligter sig til, og hvad vi beder elever og familier om. Læs den sammen med dit barn, udfyld alle afsnit og skriv under på sidste side.
+248|Elevens oplysninger
+249|Skole
+250|Oplysninger om forældre / værger
+251|Værge 1 — navn
+252|Værge 2 — navn
+253|Enhver retsafgørelse eller aftale om, hvem der må hente barnet eller få oplysninger om det, skal meddeles klubben skriftligt.
+254|Angiv venligst andre kontakter end værgerne ovenfor.
+255|Helbredsoplysninger
+256|Deles kun med de instruktører, der har brug for dem for dit barns sikkerhed. Giv os straks besked, hvis noget ændrer sig.
+257|Sygdomme (f.eks. astma, epilepsi, diabetes)
+258|Skader eller fysiske begrænsninger
+259|Særlige behov, vi bør kende for at støtte dit barn
+260|Sundhedskortnr. / CPR-nr. (valgfrit)
+261|Personer der må hente barnet
+262|Børn udleveres kun til en værge eller en person, der er nævnt her. Vi kan bede om legitimation.
+263|(Elever på 12 år og derover) Mit barn må gå alene fra klubben efter træning.
+264|Kontingentet betales månedligt forud via SEPA-direkte debitering. En separat SEPA-fuldmagt underskrives sammen med denne aftale.
+265|Vores elever
+266|Træner med kontrol og respekterer hver partners sikkerhed.
+267|Bruger aldrig teknikker uden for træningen, undtagen for at beskytte sig selv eller andre mod skade.
+268|Taler pænt — ingen mobning, i eller uden for klubben, heller ikke online.
+269|Vores familier
+270|Afleverer og henter til tiden og kan kontaktes under træningen.
+271|Lader instruktørerne lede træningen — spørgsmål er velkomne bagefter.
+272|Hepper på alle elever, ikke kun deres egne, fra tilskuerområdet.
+273|Fortæller os om alt, der kan påvirke barnets træning eller trivsel.
+274|Vores klub
+275|Kvalificerede instruktører med gyldig børneattest.
+276|Sikre træninger under tilsyn med passende normering og førstehjælp.
+277|Klar feedback på fremskridt og fair, gennemsigtige gradueringer.
+278|En udpeget børneansvarlig, som du kan tale fortroligt med.
+279|Klubben har en ansvarsforsikring, og eleverne er dækket af en sportsulykkesforsikring gennem deres forbundslicens. Detaljer fås på forespørgsel.
+280|Jeg bekræfter, at mit barn er i stand til at deltage, og jeg informerer klubben om enhver ændring i barnets helbred. Intet i denne aftale begrænser klubbens juridiske ansvar for egen uagtsomhed.
+281|Hver anvendelse er frivillig og kan til enhver tid trækkes tilbage. Et nej påvirker aldrig dit barns plads eller behandling.
+282|Jeg giver samtykke til, at billeder af mit barn bruges til…
+283|Offentlige sociale medier (fulde navne offentliggøres aldrig)
+284|<b>Dataansvarlig:</b> {club}. <b>Formål:</b> administration af medlemskab, kontingent, sikkerhed, gradueringer og forbundslicenser. <b>Retsgrundlag:</b> opfyldelse af denne aftale; samtykke til helbredsoplysninger og billeder; retlige forpligtelser.
+285|Medlemskabet kan sættes på pause ved skade eller sygdom (med lægeerklæring) eller ved længere ferie efter aftale med klubben.
+286|Klubben kan afslutte medlemskabet efter alvorlige eller gentagne brud på adfærdskodekset, efter at have talt med familien. Kontingent for hele måneder uden træning refunderes.
+287|Jeg er forælder eller værge for ovennævnte elev. Jeg har læst og accepterer denne aftale, og de oplysninger, jeg har givet, er korrekte.
+288|Forælders / værges underskrift
+289|„Jeg træner med respekt, indsats og kontrol.“
+290|Helbredsoplysninger delt med instruktører
+291|Kopi givet til familien
+292|Samtykke til foto og video
+293|Vi deler gerne vores elevers fremskridt, men kun med din tilladelse. Vælg ja eller nej for hver anvendelse. Du kan til enhver tid ombestemme dig ved at give klubben besked.
+294|Hvordan billeder må bruges
+295|Hver anvendelse er frivillig. Et nej påvirker aldrig elevens plads, behandling eller gradueringer.
+296|Jeg giver samtykke til, at fotos og video af eleven bruges til…
+297|Klubbens hjemmeside, opslagstavle og tryksager
+298|Klubbens offentlige sociale medier
+299|EMTF-forbundets hjemmeside, sociale medier og arrangementer
+300|Lokal presse og medier (f.eks. et gradueringsresultat eller stævneresultat)
+301|Fornavn vist sammen med billeder (efternavne offentliggøres aldrig)
+302|Vores løfte
+303|Kun bruge billeder, hvor eleverne er passende påklædt og træner sikkert.
+304|Aldrig offentliggøre et barns fulde navn, skole eller bopæl.
+305|Fjerne billeder fra klubbens kanaler inden 7 dage efter en anmodning, i det omfang vi har kontrol over det.
+306|Bede familier ved arrangementer om ikke at dele billeder af andre elever uden tilladelse.
+307|<b>Databeskyttelse:</b> {club} er ansvarlig for disse billeder. Retsgrundlaget er dit samtykke, som du til enhver tid kan trække tilbage. Billeder opbevares kun, så længe de bruges, og du kan bede om indsigt, rettelse eller sletning eller klage til {authority}.
+308|Underskrift
+309|Jeg er eleven (over 18) eller dennes forælder / værge og giver de samtykker, der er afkrydset ovenfor.
+310|Elev (fra 12 år, som tegn på enighed)
+311|Registreret af
+312|Tilbagekaldt den (hvis relevant)
+313|Registrering af bekymring om et barn
+314|Fortroligt. Udfyldes hurtigst muligt, helst samme dag, og gives kun til klubbens børneansvarlige. Skriv fakta og barnets egne ord ned. Undersøg ikke selv, stil ikke barnet flere spørgsmål, og lov ikke at holde noget hemmeligt.
+315|Umiddelbar sikkerhed
+316|Hvis et barn er i umiddelbar fare, så ring 112 nu. Udfyld denne registrering bagefter.
+317|Barnet
+318|Barnets fulde navn
+319|Fødselsdato eller alder
+320|Hold / gruppe
+321|Forælder/forældre / værge(r)
+322|Bekymringen
+323|Hvor
+324|Noget barnet sagde
+325|Noget der blev set (f.eks. en skade eller en adfærd)
+326|Oplysninger fra en anden person
+327|En ændring i barnets adfærd eller udseende
+328|Hvad skete der — kun fakta, i rækkefølge
+329|Barnets egne ord, præcis som de blev sagt (og hvad du sagde)
+330|Synlige skader: hvor på kroppen og hvordan de så ud
+331|Tag ikke billeder af skader, og bed ikke barnet om at vise dem. Beskriv kun, hvad du så.
+332|Person der indberetter
+333|Rolle i klubben
+334|Dato og tidspunkt for denne registrering
+335|Givet videre til den børneansvarlige (navn, dato og tidspunkt)
+336|Underrettet (kommunen, politiet) og referencenr.
+337|Har den børneansvarlige…
+338|Informeret forbundets børneansvarlige?
+339|Informeret forældrene (kun hvis det ikke udsætter barnet for større risiko)?
+340|Beslutning og næste skridt (børneansvarlig)
+341|Opfølgningsdato
+342|Afsluttet den
+343|<b>Fortroligt.</b> {club} opbevarer denne registrering aflåst og adskilt fra medlemsoplysningerne for at beskytte barnet. Den deles kun med forbundets børneansvarlige og myndighederne efter behov og opbevares så længe loven kræver.
+344|SEPA-fuldmagt til direkte debitering
+345|Denne fuldmagt giver klubben lov til at trække kontingentet fra din bankkonto. Udfyld den med blokbogstaver og skriv under nedenfor. Udfyld IBAN omhyggeligt: et forkert ciffer vil få betalingen afvist.
+346|Kreditor (klubben)
+347|Kreditors navn
+348|Kreditor-ID
+349|Adresse
+350|Fuldmagtsreference (udfyldes af klubben)
+351|Debitor (kontohaver)
+352|Kontohaverens fulde navn
+353|Postnummer og by
+354|Land
+355|BIC / SWIFT (hvis kendt)
+356|Elev(er) som dette dækker
+357|Betalingstype
+358|Tilbagevendende betaling (månedligt kontingent)
+359|Engangsbetaling
+360|Fuldmagtens vilkår
+361|Ved at underskrive denne fuldmagt giver du (A) {club} tilladelse til at sende instrukser til din bank om at debitere din konto og (B) din bank tilladelse til at debitere din konto i overensstemmelse med instrukserne fra {club}.
+362|Som en del af dine rettigheder kan du få tilbagebetaling fra din bank i henhold til vilkårene i din aftale med banken. Krav om tilbagebetaling skal fremsættes inden 8 uger fra den dato, hvor din konto blev debiteret.
+363|Dine rettigheder er forklaret i en erklæring, som du kan få i din bank. Klubben meddeler dig beløb og dato for hver opkrævning mindst 2 dage i forvejen.
+364|Debitors underskrift (kontohaver)
+365|Sted for underskrift
+366|Alle felter skal udfyldes. Aflever denne fuldmagt til klubben; den opbevares af klubben og sendes ikke til din bank.
+367|Dato for første opkrævning
+368|Månedligt beløb (€)
+369|IBAN kontrolleret
+370|Oprettet i betalingssystemet
+371|Forhåndsmeddelelse sendt
+372|Samtykke til prøvetræning
+373|Velkommen — dejligt at du er her. Udfyld venligst denne korte formular før din første træning, så vi kan holde dig sikker på måtten.
+374|Deltager
+375|Dato for prøvetræning
+376|Nødkontakt (navn og telefon)
+377|Hvordan hørte du om os?
+378|Hurtigt helbredstjek
+379|Har deltageren…
+380|En hjerte-, lunge- eller krampesygdom eller diabetes?
+381|En aktuel skade eller en nylig operation eller hovedskade?
+382|En alvorlig allergi eller nødmedicin?
+383|Særlige behov, som instruktøren bør kende til?
+384|Hvis ja, så giv en kort beskrivelse
+385|Sikkerhed og samtykke
+386|Tang Soo Do er en fysisk kontaktsport. Prøvetræninger er tilpasset begyndere og foregår under fuldt tilsyn, men stød, blå mærker og forstuvninger kan forekomme.
+387|Jeg bekræfter, at deltageren er i stand til at deltage og vil følge instruktørens anvisninger. Intet i denne formular begrænser klubbens juridiske ansvar for egen uagtsomhed.
+388|Jeg giver samtykke til, at der ydes førstehjælp, og at klubben ringer 112 i en nødsituation.
+389|Jeg forstår, at der ikke deles fotos eller video af deltageren uden særskilt skriftligt samtykke.
+390|Valgfrit: Klubben må kontakte mig om medlemskab efter prøvetræningen.
+391|<b>Databeskyttelse:</b> {club} bruger kun disse oplysninger til at gennemføre prøvetræningen sikkert og, hvis du har sat kryds ovenfor, til at følge op. De slettes efter 6 måneder, hvis du ikke melder dig ind. Du kan til enhver tid bede om indsigt, rettelse eller sletning eller klage til {authority}.
+392|Deltager (over 18) eller forælder / værge
+393|Instruktør
+394|Deltog
+395|Medlemskab tilbudt
+396|Meldt ind
+397|Instruktørens noter
+398|Opfølgningsdato
+399|Klubserie
+400|Klublogo
+401|Klubbens navn
+402|Klubbens adresse
+403|Program
+404|Månedligt kontingent
+405|Vælg
+406|Ja
+407|Nej
+408|IBAN (kontonummer)
+409|Klubbens spørgsmål
+410|ovennævnte klub
+411|datatilsynsmyndigheden i dit land
